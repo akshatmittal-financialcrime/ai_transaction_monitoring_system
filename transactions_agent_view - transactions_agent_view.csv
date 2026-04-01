@@ -1,0 +1,506 @@
+transaction_id,date_time,transaction_type,amount_gbp,status,channel,sender_account_no,sender_name,sender_phone,sender_nationality,sender_passport_no,sender_customer_type,sender_kyc_risk,receiver_account_no,receiver_name,receiver_phone
+TXN00325,2026-03-02 17:25:16,Bank Transfer,434.71,Completed,ATM,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,27810664,Mr Ian Carter,7183686071
+TXN00018,2026-03-02 17:29:47,International Wire,5278.4,Completed,Online Banking,24305904,Anderson-Green,7935822550,Russian,QF6426077,Business,Medium,72005415,Dr Joanne Bates,7682605435
+TXN00006,2026-03-02 19:16:22,Mobile Wallet,822.95,Completed,Branch,38716269,Dr Kenneth Marsh,7168965204,Turkish,HC2235126,Individual,Low,7840206617,Damien Walters,7840206617
+TXN00064,2026-03-02 19:27:33,International Wire,561.78,Completed,Online Banking,74988034,Antony Sykes,7396889215,Polish,LH2737961,Individual,Low,27447248,Cheryl Burton,7255357534
+TXN00217,2026-03-02 19:40:07,Cash Deposit,1494.15,Completed,Branch,74988034,Antony Sykes,7396889215,Polish,LH2737961,Individual,Low,19801857,Guy Brown,7720956992
+TXN00456,2026-03-02 21:35:43,Card Payment,850.73,Failed,Branch,50477742,Jay Graham-Rose,7834717549,Pakistani,,Individual,High,60076822,Cheryl Spencer,7314119421
+TXN00357,2026-03-02 23:35:10,Mobile Wallet,18654.71,Completed,Branch,71070189,Thomas Group,7406284028,British,WE4240392,Business,High,7125673445,Derek Reynolds,7125673445
+TXN00248,2026-03-02 23:35:35,Bank Transfer,830.66,Completed,Online Banking,44788100,"Forster, Turner and Fry",7907214179,Polish,XP7585874,Business,Low,41062464,Dr Colin Payne,7777210736
+TXN00326,2026-03-03 1:32:56,Bank Transfer,5580,Failed,ATM,22448136,Dr Brett Jones,7507943839,Afghan,PV0863193,Individual,Medium,26185823,Julian Hobbs,7977364141
+TXN00045,2026-03-03 1:35:25,Cash Deposit,1136.2,Pending,ATM,70505620,Gareth Robinson-Roberts,7361846370,Chinese,XU4853292,Individual,Low,16582607,Eric Ellis,7836371599
+TXN00474,2026-03-03 3:25:28,Bank Transfer,1705.48,Completed,Branch,54058573,Joseph Watson,7399147754,Iranian,WF8437201,Individual,Low,96865529,Carl Smith,7812272035
+TXN00336,2026-03-03 6:12:52,International Wire,1973.9,Completed,ATM,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,27714442,Lewis Morgan,7439809925
+TXN00350,2026-03-03 6:28:19,Bank Transfer,4966.57,Completed,Online Banking,71070189,Thomas Group,7406284028,British,WE4240392,Business,High,58852098,Paul Morris,7606553372
+TXN00481,2026-03-03 6:33:22,Cash Deposit,1412.09,Completed,Online Banking,42862209,Wilkinson-Williams,7610173760,Nigerian,,Business,Low,80439867,Alexandra Robinson-Cooper,7827920634
+TXN00344,2026-03-03 6:54:40,Bank Transfer,1418.72,Completed,Branch,70505620,Gareth Robinson-Roberts,7361846370,Chinese,XU4853292,Individual,Low,11523452,Jayne Wilkinson,7853229478
+TXN00022,2026-03-03 8:05:14,International Wire,1108.98,Failed,Mobile App,66851377,Mathew Davies,7990505735,British,,Individual,Low,40158811,Mr Eric Daly,7200082623
+TXN00250,2026-03-03 10:29:03,Card Payment,23.16,Completed,Branch,57212267,Craig Payne,7420632895,Russian,FK9568730,Individual,Low,65208920,Mr Arthur Baker,7692322761
+TXN00243,2026-03-03 11:03:11,Mobile Wallet,2123.15,Completed,ATM,71705170,Miss Valerie Ryan,7859466878,British,LJ5388196,Individual,Medium,7727099478,Bethan Richards,7727099478
+TXN00181,2026-03-03 11:32:20,Card Payment,2978.44,Failed,Branch,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,24710878,Bryan Jordan,7823494111
+TXN00461,2026-03-03 14:26:14,Card Payment,464.55,Completed,Mobile App,82374753,Miss Rosie Bird,7242068763,Pakistani,AS0003524,Individual,Low,27610141,Katherine Robinson,7880791577
+TXN00093,2026-03-03 16:27:18,Card Payment,1932.74,Completed,Branch,74988034,Antony Sykes,7396889215,Polish,LH2737961,Individual,Low,92963368,Dr Danielle Patel,7284547422
+TXN00062,2026-03-03 17:02:19,International Wire,452.1,Failed,Online Banking,15134794,McCarthy Group,7216396351,Chinese,NR8308259,Business,Medium,42691263,Bradley Clark,7458102728
+TXN00389,2026-03-03 17:41:09,Bank Transfer,3039.47,Completed,Branch,97775215,Kayleigh Lewis-Steele,7667945747,Indian,DJ0224539,Individual,High,29012298,Christopher Palmer,7856661933
+TXN00222,2026-03-03 18:38:38,Bank Transfer,1957.2,Completed,ATM,70505620,Gareth Robinson-Roberts,7361846370,Chinese,XU4853292,Individual,Low,83074216,Harriet Harper-Allen,7597146648
+TXN00171,2026-03-03 19:09:28,Card Payment,189.2,Completed,Online Banking,44788100,"Forster, Turner and Fry",7907214179,Polish,XP7585874,Business,Low,77839607,Dr Hollie Wade,7522240582
+TXN00288,2026-03-03 20:46:23,Cash Deposit,3888.03,Pending,Mobile App,99853245,Lynn Perry,7222824732,Pakistani,,Individual,Medium,65831276,Mr Sean Young,7417217932
+TXN00065,2026-03-03 22:11:29,Bank Transfer,272.29,Completed,Mobile App,36445607,Megan Smith,7491079829,Polish,ZD8104586,Individual,Low,41934639,Mrs Dorothy Williams,7484659715
+TXN00385,2026-03-04 1:01:06,International Wire,1409.87,Completed,Online Banking,81016525,"Freeman, Holt and Wilkinson",7369953851,Nigerian,CB1674039,Business,Low,86188876,Amber Elliott,7477615830
+TXN00021,2026-03-04 1:47:27,Bank Transfer,7786.52,Completed,Branch,27566185,Lauren Henderson,7821221887,Pakistani,BC6532632,Individual,Medium,42117961,Mary Davies,7753770973
+TXN00294,2026-03-04 2:10:01,Card Payment,14774.03,Completed,ATM,71070189,Thomas Group,7406284028,British,WE4240392,Business,High,70340936,Miss Alexandra Elliott,7311875497
+TXN00225,2026-03-04 7:16:29,International Wire,8984.18,Completed,Mobile App,97775215,Kayleigh Lewis-Steele,7667945747,Indian,DJ0224539,Individual,High,16533225,Donna Davies,7821579885
+TXN00351,2026-03-04 9:21:25,Mobile Wallet,1110.2,Completed,ATM,59529086,Lawrence Williamson,7608159580,Turkish,GM7402426,Individual,Low,7866673993,Garry Parkes,7866673993
+TXN00488,2026-03-04 9:54:10,Card Payment,1118.69,Completed,Branch,82374753,Miss Rosie Bird,7242068763,Pakistani,AS0003524,Individual,Low,22199793,Josephine Bell-Watts,7100182231
+TXN00035,2026-03-04 9:58:51,International Wire,1238.74,Completed,Branch,59529086,Lawrence Williamson,7608159580,Turkish,GM7402426,Individual,Low,94712997,Allan Jackson-Edwards,7352082631
+TXN00283,2026-03-04 10:59:24,International Wire,1583.53,Completed,Mobile App,54058573,Joseph Watson,7399147754,Iranian,WF8437201,Individual,Low,82062301,Thomas Baker-Johnson,7486041850
+TXN00031,2026-03-04 11:17:11,Card Payment,1053.66,Pending,ATM,93370583,Molly Law,7704509817,British,,Individual,Medium,54559574,Mrs Christine Pearson,7733701411
+TXN00056,2026-03-04 11:30:38,Bank Transfer,615.69,Completed,Online Banking,36445607,Megan Smith,7491079829,Polish,ZD8104586,Individual,Low,25585427,Tom Lamb,7628951656
+TXN00200,2026-03-04 11:48:24,Cash Deposit,123.67,Completed,Branch,71705170,Miss Valerie Ryan,7859466878,British,LJ5388196,Individual,Medium,90904160,Karl Smith,7709844411
+TXN00178,2026-03-04 13:29:37,Bank Transfer,282.7,Completed,Online Banking,31130263,"Kennedy, Griffiths and Davies",7161073976,Turkish,HZ5570558,Business,Low,73584863,Mr Elliott Mann,7457599735
+TXN00308,2026-03-04 16:38:07,International Wire,1522.41,Completed,ATM,59555330,Dennis Jones-Hall,7725464884,Nigerian,GT5400895,Individual,Low,83330295,Kyle Saunders,7573913756
+TXN00374,2026-03-04 17:54:01,Bank Transfer,7541.13,Pending,ATM,96728778,Burns Inc,7205675387,Turkish,MK0634806,Business,Medium,32547129,Pauline Wheeler,7154371817
+TXN00115,2026-03-04 19:03:39,Card Payment,3316.33,Failed,Branch,32151928,"Watson, Murray and Holt",7601856351,Afghan,TU8424367,Business,Medium,41880763,Miss Nicola Potter,7826239153
+TXN00132,2026-03-04 19:48:37,Mobile Wallet,711.08,Completed,Online Banking,81016525,"Freeman, Holt and Wilkinson",7369953851,Nigerian,CB1674039,Business,Low,7463512350,Kenneth Watts,7463512350
+TXN00162,2026-03-04 21:07:20,Bank Transfer,1897.61,Completed,Online Banking,99245317,Allen PLC,7507104143,Polish,RD9563651,Business,Low,87412924,Mr Damian Edwards,7927878967
+TXN00459,2026-03-04 21:25:16,Bank Transfer,6034.22,Completed,Branch,71070189,Thomas Group,7406284028,British,WE4240392,Business,High,71193393,Jemma Anderson,7412273967
+TXN00258,2026-03-04 22:24:15,Cash Deposit,7397.07,Pending,Mobile App,79340535,Alan Davies,7305145276,Iranian,MI4322585,Individual,Medium,47631028,Ms Sarah Sutton,7834899763
+TXN00497,2026-03-05 0:44:44,International Wire,1110.92,Completed,Online Banking,60372847,Pamela Patel,7525904456,Chinese,EP7189103,Individual,Low,88533572,Lynne Kaur,7564726604
+TXN00435,2026-03-05 2:00:11,Card Payment,334.19,Pending,Online Banking,36445607,Megan Smith,7491079829,Polish,ZD8104586,Individual,Low,38765353,Miss Ellie Bryan,7714457408
+TXN00303,2026-03-05 6:37:01,International Wire,17323.89,Completed,ATM,19121552,Leonard King,7825003955,Ghanaian,,Individual,High,75043108,Robin Harding,7110290140
+TXN00407,2026-03-05 7:39:29,Mobile Wallet,728.05,Completed,ATM,43446826,Dr Stewart Turner,7230307805,Russian,,Individual,Low,7559138405,Zoe Richardson,7559138405
+TXN00069,2026-03-05 15:01:20,Bank Transfer,7988.76,Completed,ATM,43189803,Kevin Brady,7314061901,Afghan,CA5936767,Individual,Medium,67213476,Sally Singh,7531233244
+TXN00347,2026-03-05 18:34:18,International Wire,2140.45,Completed,ATM,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,94226031,Caroline Hopkins,7719175016
+TXN00151,2026-03-05 19:48:54,Cash Deposit,1104.49,Pending,Online Banking,95125977,James and Sons,7383450553,Romanian,CW2871223,Business,Low,50259503,Ms Jade Phillips,7411774120
+TXN00107,2026-03-05 20:56:54,Cash Deposit,666.08,Completed,Online Banking,83793389,Read-Pugh,7277303722,Romanian,GO0789516,Business,Low,61883769,Dr Sophie Glover,7699108439
+TXN00342,2026-03-05 21:11:06,International Wire,627.24,Completed,Mobile App,57212267,Craig Payne,7420632895,Russian,FK9568730,Individual,Low,42029368,Joan Smith,7569747059
+TXN00075,2026-03-05 22:22:17,Card Payment,775.24,Completed,Branch,27566185,Lauren Henderson,7821221887,Pakistani,BC6532632,Individual,Medium,22513132,Charlene Johnston,7191659287
+TXN00131,2026-03-05 22:52:05,Cash Deposit,6961.57,Completed,Branch,71070189,Thomas Group,7406284028,British,WE4240392,Business,High,98195059,Mr Daniel Smith,7886989426
+TXN00329,2026-03-05 23:51:39,Mobile Wallet,1065.71,Completed,Online Banking,38716269,Dr Kenneth Marsh,7168965204,Turkish,HC2235126,Individual,Low,7109099680,Mr Shane Giles,7109099680
+TXN00354,2026-03-06 0:27:38,Card Payment,17552.13,Completed,ATM,55298556,Higgins-Jones,7917364173,British,PR0481234,Business,High,51701149,Dr Molly Wood,7403124688
+TXN00070,2026-03-06 5:46:42,Card Payment,7199.17,Completed,Online Banking,96728778,Burns Inc,7205675387,Turkish,MK0634806,Business,Medium,91644298,Daniel Woods-Andrews,7445864933
+TXN00155,2026-03-06 6:04:52,International Wire,259.4,Completed,ATM,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,96213226,Dr Jodie Chapman,7440405868
+TXN00282,2026-03-06 6:19:52,Card Payment,903.64,Completed,ATM,59555330,Dennis Jones-Hall,7725464884,Nigerian,GT5400895,Individual,Low,74321792,Mr Dominic Gordon,7742026586
+TXN00101,2026-03-06 6:35:38,International Wire,2517.74,Completed,Branch,96728778,Burns Inc,7205675387,Turkish,MK0634806,Business,Medium,15047559,Sylvia Harding,7585238820
+TXN00362,2026-03-06 7:20:21,Card Payment,1187.87,Completed,Online Banking,54058573,Joseph Watson,7399147754,Iranian,WF8437201,Individual,Low,68382413,Maria Miller,7166875719
+TXN00273,2026-03-06 9:46:31,Card Payment,728.64,Completed,Online Banking,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,93890601,Dr Oliver Cole,7364774064
+TXN00341,2026-03-06 12:13:20,Cash Deposit,4114.87,Completed,ATM,94482772,Robin Crawford-Lloyd,7837071174,British,ML1094840,Individual,Medium,30854365,Alison Chadwick,7318181642
+TXN00140,2026-03-06 13:26:33,Bank Transfer,2656.96,Completed,ATM,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,51137177,Dr Lindsey Kay,7417440983
+TXN00108,2026-03-06 15:06:44,Cash Deposit,11696.52,Completed,ATM,55298556,Higgins-Jones,7917364173,British,PR0481234,Business,High,56952151,Joyce Nelson-Johnson,7251857566
+TXN00340,2026-03-06 16:11:27,Card Payment,1284.67,Completed,Mobile App,83793389,Read-Pugh,7277303722,Romanian,GO0789516,Business,Low,92684436,Jay Barnes,7677303044
+TXN00256,2026-03-06 16:29:30,Mobile Wallet,10047.18,Completed,Branch,71070189,Thomas Group,7406284028,British,WE4240392,Business,High,7565906941,Malcolm French,7565906941
+TXN00372,2026-03-06 18:04:06,Cash Deposit,1168.82,Completed,Mobile App,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,20064609,Billy Bennett-Rahman,7377906552
+TXN00129,2026-03-06 19:54:10,Mobile Wallet,1051.73,Completed,Mobile App,83793389,Read-Pugh,7277303722,Romanian,GO0789516,Business,Low,7487195336,Christian Howard,7487195336
+TXN00154,2026-03-06 20:36:13,International Wire,140.84,Completed,ATM,54058573,Joseph Watson,7399147754,Iranian,WF8437201,Individual,Low,74245343,Chloe Francis-Knowles,7527521016
+TXN00331,2026-03-06 21:09:15,Mobile Wallet,7177.91,Completed,ATM,79340535,Alan Davies,7305145276,Iranian,MI4322585,Individual,Medium,7250337960,Stanley Wilson,7250337960
+TXN00017,2026-03-06 22:45:09,Card Payment,635.89,Failed,ATM,54058573,Joseph Watson,7399147754,Iranian,WF8437201,Individual,Low,25558733,Ms Sarah Watson,7447112584
+TXN00470,2026-03-06 23:51:04,Bank Transfer,1814.69,Completed,Online Banking,74988034,Antony Sykes,7396889215,Polish,LH2737961,Individual,Low,87061479,Alexander Read,7996823706
+TXN00448,2026-03-07 0:11:50,Cash Deposit,1816.92,Completed,Branch,71705170,Miss Valerie Ryan,7859466878,British,LJ5388196,Individual,Medium,51216287,Dylan Clark,7339796534
+TXN00102,2026-03-07 1:21:30,Bank Transfer,1233.87,Completed,Mobile App,88320463,Mrs Rosie Rogers,7528853029,Polish,MX6117574,Individual,Low,61604364,Debra Palmer-Davies,7644459924
+TXN00036,2026-03-07 1:27:18,Mobile Wallet,3500.07,Completed,Mobile App,26948946,O'Neill PLC,7784907325,Romanian,VH3371002,Business,Medium,7205702499,Ian Hughes,7205702499
+TXN00083,2026-03-07 3:03:39,Bank Transfer,14947.62,Completed,Branch,55298556,Higgins-Jones,7917364173,British,PR0481234,Business,High,60491958,Sharon Grant,7330997172
+TXN00235,2026-03-07 3:53:02,Cash Deposit,1075.91,Completed,ATM,81016525,"Freeman, Holt and Wilkinson",7369953851,Nigerian,CB1674039,Business,Low,35566010,Megan Middleton,7990568217
+TXN00403,2026-03-07 4:37:49,International Wire,682.52,Completed,ATM,99245317,Allen PLC,7507104143,Polish,RD9563651,Business,Low,74791834,Mr Alex Harris,7758896006
+TXN00255,2026-03-07 5:05:29,Bank Transfer,8165.04,Completed,Mobile App,55298556,Higgins-Jones,7917364173,British,PR0481234,Business,High,84182331,Ms Louise Norman,7504982743
+TXN00074,2026-03-07 6:56:18,Card Payment,631.97,Completed,Online Banking,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,99269266,Dr Beth Evans,7435569630
+TXN00257,2026-03-07 7:15:36,International Wire,7163.59,Completed,ATM,43189803,Kevin Brady,7314061901,Afghan,CA5936767,Individual,Medium,40838737,Dr Dylan Smith,7145689604
+TXN00252,2026-03-07 8:22:09,Bank Transfer,4218.86,Completed,Branch,79340535,Alan Davies,7305145276,Iranian,MI4322585,Individual,Medium,35760684,Beverley Sykes,7358738317
+TXN00412,2026-03-07 8:49:20,Mobile Wallet,731.37,Completed,ATM,52339391,Vincent Bennett,7530747414,Pakistani,JZ6568720,Individual,Medium,7469143184,Raymond Hopkins,7469143184
+TXN00408,2026-03-07 9:09:12,Mobile Wallet,612.14,Completed,Mobile App,71070189,Thomas Group,7406284028,British,WE4240392,Business,High,7283429671,Ben Smith,7283429671
+TXN00047,2026-03-07 9:21:35,Mobile Wallet,1807.77,Completed,ATM,70505620,Gareth Robinson-Roberts,7361846370,Chinese,XU4853292,Individual,Low,7794002948,Trevor O'Connor,7794002948
+TXN00058,2026-03-07 11:31:26,Card Payment,19997.56,Pending,Branch,43446826,Dr Stewart Turner,7230307805,Russian,,Individual,Low,64776386,Dr Melanie Murphy,7761051532
+TXN00097,2026-03-07 15:55:53,Mobile Wallet,1214.23,Completed,Online Banking,32151928,"Watson, Murray and Holt",7601856351,Afghan,TU8424367,Business,Medium,7311818984,Mr Bernard Reynolds,7311818984
+TXN00402,2026-03-07 18:10:08,Cash Deposit,157.66,Completed,Mobile App,95125977,James and Sons,7383450553,Romanian,CW2871223,Business,Low,60393104,Mrs Kathryn Frost,7282649071
+TXN00274,2026-03-07 20:47:14,Card Payment,1127.14,Completed,ATM,22448136,Dr Brett Jones,7507943839,Afghan,PV0863193,Individual,Medium,63108878,Ms Emily Cox,7107266407
+TXN00495,2026-03-07 21:42:42,Cash Deposit,6069.34,Completed,Mobile App,93370583,Molly Law,7704509817,British,,Individual,Medium,94992096,Jodie Cunningham,7149929379
+TXN00398,2026-03-07 22:01:29,Cash Deposit,5777.29,Completed,ATM,53507489,Jason Bell,7624636385,British,HQ6175750,Individual,Medium,61799600,Bethany Walton-Page,7151697938
+TXN00365,2026-03-07 23:07:05,International Wire,319.27,Completed,ATM,70505620,Gareth Robinson-Roberts,7361846370,Chinese,XU4853292,Individual,Low,70339827,Jodie Wilson-Freeman,7276496293
+TXN00194,2026-03-07 23:24:49,Mobile Wallet,1235.2,Completed,Mobile App,83793389,Read-Pugh,7277303722,Romanian,GO0789516,Business,Low,7730104453,Glen Fraser,7730104453
+TXN00127,2026-03-08 1:18:51,Bank Transfer,1675.01,Completed,Online Banking,66851377,Mathew Davies,7990505735,British,,Individual,Low,90092958,Philip Dodd,7636687537
+TXN00096,2026-03-08 5:00:22,International Wire,1065.9,Completed,Online Banking,74988034,Antony Sykes,7396889215,Polish,LH2737961,Individual,Low,56892354,Ms Irene Mitchell,7308202515
+TXN00291,2026-03-08 6:14:22,Bank Transfer,549.44,Completed,Online Banking,50477742,Jay Graham-Rose,7834717549,Pakistani,,Individual,High,96969050,Donna Jones,7468377143
+TXN00409,2026-03-08 6:43:59,Card Payment,623.62,Completed,Branch,57212267,Craig Payne,7420632895,Russian,FK9568730,Individual,Low,73209094,Miss Susan Watson,7526777316
+TXN00464,2026-03-08 7:03:37,Bank Transfer,839.38,Completed,ATM,82374753,Miss Rosie Bird,7242068763,Pakistani,AS0003524,Individual,Low,26588648,Norman Quinn,7508294370
+TXN00343,2026-03-08 7:17:22,Card Payment,912.21,Completed,Online Banking,66851377,Mathew Davies,7990505735,British,,Individual,Low,17385816,Dr Marilyn Russell,7753728820
+TXN00310,2026-03-08 8:55:12,Card Payment,1553.51,Completed,Branch,83793389,Read-Pugh,7277303722,Romanian,GO0789516,Business,Low,38169370,Janet Taylor,7354418892
+TXN00023,2026-03-08 9:00:48,Card Payment,1298.94,Pending,Branch,59555330,Dennis Jones-Hall,7725464884,Nigerian,GT5400895,Individual,Low,76890827,Dr Jake Bradley,7265325235
+TXN00346,2026-03-08 9:42:05,Cash Deposit,1545.15,Completed,Branch,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,54964418,Jeffrey Martin,7131521039
+TXN00221,2026-03-08 10:22:23,Cash Deposit,1468.87,Completed,Online Banking,22448136,Dr Brett Jones,7507943839,Afghan,PV0863193,Individual,Medium,62755436,Grace Dickinson,7676876906
+TXN00367,2026-03-08 11:51:53,Cash Deposit,768.85,Completed,Mobile App,52339391,Vincent Bennett,7530747414,Pakistani,JZ6568720,Individual,Medium,50831043,Chelsea Harris,7967150570
+TXN00494,2026-03-08 12:50:04,Mobile Wallet,1861.13,Completed,Online Banking,43446826,Dr Stewart Turner,7230307805,Russian,,Individual,Low,7521869399,Alison Giles,7521869399
+TXN00061,2026-03-08 14:28:54,Mobile Wallet,1898.53,Completed,Online Banking,88320463,Mrs Rosie Rogers,7528853029,Polish,MX6117574,Individual,Low,7984968439,Eric McCarthy,7984968439
+TXN00321,2026-03-08 16:54:08,Bank Transfer,1859.57,Completed,ATM,31130263,"Kennedy, Griffiths and Davies",7161073976,Turkish,HZ5570558,Business,Low,69228397,Dorothy Wright-Naylor,7269633510
+TXN00137,2026-03-08 17:10:46,Cash Deposit,1600.69,Completed,ATM,64543049,Paul Collins-King,7766430218,British,XU8822178,Individual,Low,63690013,Owen James,7569172971
+TXN00110,2026-03-08 21:02:45,Cash Deposit,1343.53,Completed,ATM,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,80651318,Geraldine Jones,7990087914
+TXN00447,2026-03-08 21:13:16,Card Payment,14844.29,Completed,Online Banking,71070189,Thomas Group,7406284028,British,WE4240392,Business,High,85031958,Paul Robinson,7878663220
+TXN00322,2026-03-09 1:50:43,Mobile Wallet,7063.07,Completed,Branch,27566185,Lauren Henderson,7821221887,Pakistani,BC6532632,Individual,Medium,7424125621,Lewis Ali,7424125621
+TXN00437,2026-03-09 2:18:45,Card Payment,5196.6,Completed,Branch,43308443,"Williams, Hodgson and Grant",7386480450,Pakistani,ZV8073988,Business,Medium,11135982,Dr Bethany Evans,7745471251
+TXN00460,2026-03-09 4:01:53,Card Payment,692.04,Completed,Online Banking,36445607,Megan Smith,7491079829,Polish,ZD8104586,Individual,Low,58217837,Douglas Wade,7626325353
+TXN00219,2026-03-09 5:56:29,Mobile Wallet,1534,Completed,ATM,44788100,"Forster, Turner and Fry",7907214179,Polish,XP7585874,Business,Low,7883068639,Eileen Miller,7883068639
+TXN00089,2026-03-09 8:02:44,Mobile Wallet,6125.08,Completed,Mobile App,26948946,O'Neill PLC,7784907325,Romanian,VH3371002,Business,Medium,7410791488,Linda Palmer,7410791488
+TXN00378,2026-03-09 8:02:49,Card Payment,844.28,Completed,Mobile App,43446826,Dr Stewart Turner,7230307805,Russian,,Individual,Low,80573568,Jake Clayton,7790042893
+TXN00196,2026-03-09 8:18:58,Bank Transfer,20.31,Completed,ATM,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,31198492,Dr Mark Ward,7690936560
+TXN00186,2026-03-09 9:01:59,Bank Transfer,1042.18,Failed,ATM,99245317,Allen PLC,7507104143,Polish,RD9563651,Business,Low,53627409,Sean Thorpe,7702247585
+TXN00281,2026-03-09 10:18:39,Card Payment,1270.34,Completed,ATM,59529086,Lawrence Williamson,7608159580,Turkish,GM7402426,Individual,Low,43914361,Tony Russell,7359868249
+TXN00371,2026-03-09 11:01:34,Bank Transfer,251.69,Completed,ATM,44788100,"Forster, Turner and Fry",7907214179,Polish,XP7585874,Business,Low,39835008,Ms Joanne Burgess,7166216779
+TXN00443,2026-03-09 11:11:06,Cash Deposit,1445.35,Failed,Branch,36445607,Megan Smith,7491079829,Polish,ZD8104586,Individual,Low,76756250,Eric Stevens,7803731001
+TXN00493,2026-03-09 11:47:26,Card Payment,1645.46,Completed,Online Banking,74988034,Antony Sykes,7396889215,Polish,LH2737961,Individual,Low,64923338,Frederick Anderson,7897264993
+TXN00168,2026-03-09 12:17:23,Mobile Wallet,202.66,Pending,ATM,66851377,Mathew Davies,7990505735,British,,Individual,Low,7411612760,Ian Johnson-Cook,7411612760
+TXN00289,2026-03-09 13:13:08,Bank Transfer,2819.21,Completed,ATM,85329037,Mr Denis Macdonald,7313500298,Chinese,DC7550026,Individual,Medium,71113711,Mark Morgan,7468365044
+TXN00192,2026-03-09 18:48:45,Cash Deposit,2359.1,Completed,ATM,93370583,Molly Law,7704509817,British,,Individual,Medium,20607151,Ms Georgina Dickinson,7408840720
+TXN00442,2026-03-09 22:50:09,Mobile Wallet,4162.48,Pending,ATM,15134794,McCarthy Group,7216396351,Chinese,NR8308259,Business,Medium,7358022386,Lawrence Holden-Fox,7358022386
+TXN00451,2026-03-09 23:49:30,Bank Transfer,1142.05,Completed,ATM,99853245,Lynn Perry,7222824732,Pakistani,,Individual,Medium,55992373,Carolyn Stewart,7315066828
+TXN00001,2026-03-10 0:55:49,Bank Transfer,306.9,Completed,Online Banking,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,50780112,Holly Davies,7704344408
+TXN00244,2026-03-10 1:43:39,Cash Deposit,1609.72,Completed,Online Banking,22448136,Dr Brett Jones,7507943839,Afghan,PV0863193,Individual,Medium,60981231,Marilyn Gray,7346980616
+TXN00266,2026-03-10 3:54:04,Card Payment,1481.91,Completed,Mobile App,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,58412365,Fiona Smith,7440030663
+TXN00085,2026-03-10 5:25:09,Bank Transfer,323.25,Completed,Branch,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,16679008,Mrs Charlotte Ferguson,7763398699
+TXN00484,2026-03-10 6:59:21,Bank Transfer,1016.08,Pending,Mobile App,99245317,Allen PLC,7507104143,Polish,RD9563651,Business,Low,76549837,Laura Clements-Walker,7603895158
+TXN00165,2026-03-10 8:19:57,Bank Transfer,3544.86,Completed,Online Banking,52339391,Vincent Bennett,7530747414,Pakistani,JZ6568720,Individual,Medium,72336371,Dale McDonald-Pratt,7619960692
+TXN00169,2026-03-10 10:13:08,Mobile Wallet,6517.15,Completed,Online Banking,27566185,Lauren Henderson,7821221887,Pakistani,BC6532632,Individual,Medium,7720286733,Kirsty Smith,7720286733
+TXN00120,2026-03-10 10:55:58,Bank Transfer,552.85,Completed,Mobile App,64543049,Paul Collins-King,7766430218,British,XU8822178,Individual,Low,29776801,Dr Denis Wilson,7651208305
+TXN00158,2026-03-10 15:59:41,Cash Deposit,332.31,Completed,Branch,59555330,Dennis Jones-Hall,7725464884,Nigerian,GT5400895,Individual,Low,40262109,Dr Russell Smith,7861639583
+TXN00037,2026-03-10 17:59:04,Card Payment,5567.31,Completed,Mobile App,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,16172803,Catherine Morley,7131081879
+TXN00477,2026-03-10 18:28:00,Card Payment,234.98,Failed,Online Banking,99245317,Allen PLC,7507104143,Polish,RD9563651,Business,Low,17871385,Ruth Campbell,7847506709
+TXN00302,2026-03-10 18:34:04,International Wire,984.39,Completed,ATM,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,35111946,Patricia Walker,7250642261
+TXN00305,2026-03-10 19:01:11,Card Payment,174.51,Completed,Branch,99245317,Allen PLC,7507104143,Polish,RD9563651,Business,Low,39598969,Charlotte Hall,7133136428
+TXN00105,2026-03-11 1:12:04,International Wire,87.89,Failed,Online Banking,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,68754920,Anthony Ahmed,7859803019
+TXN00498,2026-03-11 2:28:22,International Wire,1463.68,Completed,Branch,99245317,Allen PLC,7507104143,Polish,RD9563651,Business,Low,23898777,Jane Banks,7237848895
+TXN00392,2026-03-11 3:06:58,Cash Deposit,5672.1,Completed,Online Banking,99853245,Lynn Perry,7222824732,Pakistani,,Individual,Medium,92370625,Dr Gareth Warner,7703418543
+TXN00039,2026-03-11 4:07:34,Mobile Wallet,677.8,Completed,Online Banking,85329037,Mr Denis Macdonald,7313500298,Chinese,DC7550026,Individual,Medium,7510753814,Martyn Gough,7510753814
+TXN00393,2026-03-11 4:27:18,International Wire,762.98,Completed,Mobile App,41523529,Dr Allan Clarke,7822408848,Polish,,Individual,Low,49529438,Maureen Barker,7888121101
+TXN00049,2026-03-11 4:47:27,Card Payment,1646.32,Pending,Branch,96728778,Burns Inc,7205675387,Turkish,MK0634806,Business,Medium,82398083,Leanne Armstrong,7944511703
+TXN00199,2026-03-11 4:57:51,Card Payment,7474.68,Completed,Online Banking,43308443,"Williams, Hodgson and Grant",7386480450,Pakistani,ZV8073988,Business,Medium,63283709,Gregory Moore,7139019611
+TXN00453,2026-03-11 6:10:14,Cash Deposit,633.69,Completed,Online Banking,83793389,Read-Pugh,7277303722,Romanian,GO0789516,Business,Low,10632635,Dorothy Clarke,7162291621
+TXN00098,2026-03-11 6:32:44,Bank Transfer,7612.77,Completed,ATM,53507489,Jason Bell,7624636385,British,HQ6175750,Individual,Medium,76319264,Carole Murphy,7774254861
+TXN00082,2026-03-11 11:30:30,Bank Transfer,6965.41,Completed,Online Banking,53507489,Jason Bell,7624636385,British,HQ6175750,Individual,Medium,98227303,Charlotte Richards,7708082645
+TXN00014,2026-03-11 11:36:20,Cash Deposit,1993.92,Completed,Mobile App,43446826,Dr Stewart Turner,7230307805,Russian,,Individual,Low,95199362,Mrs June Roberts,7568027936
+TXN00301,2026-03-11 16:34:27,Card Payment,978.47,Pending,Online Banking,42862209,Wilkinson-Williams,7610173760,Nigerian,,Business,Low,96605343,Mr Hugh Evans,7677006598
+TXN00203,2026-03-11 17:05:35,Cash Deposit,380.28,Completed,Online Banking,19121552,Leonard King,7825003955,Ghanaian,,Individual,High,49597485,Victor Lewis,7461971444
+TXN00138,2026-03-11 17:48:48,Cash Deposit,997.44,Pending,Branch,36445607,Megan Smith,7491079829,Polish,ZD8104586,Individual,Low,59304469,Stephanie Clarke-Haynes,7634211672
+TXN00405,2026-03-11 21:30:11,Mobile Wallet,824.47,Completed,Branch,66851377,Mathew Davies,7990505735,British,,Individual,Low,7694973692,Miss Hayley Moss,7694973692
+TXN00238,2026-03-11 21:32:57,Mobile Wallet,1924.53,Completed,ATM,59555330,Dennis Jones-Hall,7725464884,Nigerian,GT5400895,Individual,Low,7225967304,Natalie Chapman,7225967304
+TXN00457,2026-03-11 22:11:36,International Wire,95665.55,Completed,Online Banking,70505620,Gareth Robinson-Roberts,7361846370,Chinese,XU4853292,Individual,Low,94112495,Alexandra Jenkins,7104427929
+TXN00025,2026-03-11 22:13:57,Card Payment,18445.18,Pending,Branch,55298556,Higgins-Jones,7917364173,British,PR0481234,Business,High,28321839,Kate Owen,7645719501
+TXN00112,2026-03-11 23:51:28,Card Payment,460.82,Completed,Mobile App,66851377,Mathew Davies,7990505735,British,,Individual,Low,30796389,Lynne Mellor,7247709679
+TXN00430,2026-03-12 0:44:28,Mobile Wallet,1751.61,Completed,Online Banking,54058573,Joseph Watson,7399147754,Iranian,WF8437201,Individual,Low,7315528733,Dr Leonard Howard,7315528733
+TXN00450,2026-03-12 2:48:55,Card Payment,10059.5,Completed,ATM,19121552,Leonard King,7825003955,Ghanaian,,Individual,High,61226775,Tony Rhodes-Miller,7830893658
+TXN00197,2026-03-12 8:32:18,Card Payment,6059.49,Completed,Mobile App,43308443,"Williams, Hodgson and Grant",7386480450,Pakistani,ZV8073988,Business,Medium,53106399,Louise Jones,7408427014
+TXN00118,2026-03-12 8:49:12,Mobile Wallet,1604.51,Pending,Mobile App,57212267,Craig Payne,7420632895,Russian,FK9568730,Individual,Low,7248604290,William Haynes,7248604290
+TXN00359,2026-03-12 15:13:27,Bank Transfer,1064.33,Completed,Mobile App,88320463,Mrs Rosie Rogers,7528853029,Polish,MX6117574,Individual,Low,66346728,Russell Davies,7355730504
+TXN00334,2026-03-12 15:31:01,Cash Deposit,1040.32,Completed,Branch,54058573,Joseph Watson,7399147754,Iranian,WF8437201,Individual,Low,35319707,Dr Hilary Daly,7647095694
+TXN00465,2026-03-12 15:34:28,Mobile Wallet,5576.78,Completed,ATM,26948946,O'Neill PLC,7784907325,Romanian,VH3371002,Business,Medium,7776791654,Francesca Bradley,7776791654
+TXN00237,2026-03-12 19:31:44,Card Payment,17402.53,Failed,Mobile App,55298556,Higgins-Jones,7917364173,British,PR0481234,Business,High,50693207,Olivia Williams,7457517705
+TXN00149,2026-03-13 2:08:53,Card Payment,1992.77,Completed,Online Banking,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,75927774,Francis Day-Morgan,7406635834
+TXN00295,2026-03-13 2:24:40,Bank Transfer,4195.11,Completed,Online Banking,97775215,Kayleigh Lewis-Steele,7667945747,Indian,DJ0224539,Individual,High,18397164,Elliott Wade-Hughes,7907803348
+TXN00125,2026-03-13 3:24:41,Cash Deposit,1671.58,Completed,Mobile App,19335534,Rose Ltd,7149203558,Chinese,SN9358685,Business,Low,91722503,Dr Colin Garner,7689274064
+TXN00211,2026-03-13 6:37:24,International Wire,1526.1,Pending,Mobile App,59555330,Dennis Jones-Hall,7725464884,Nigerian,GT5400895,Individual,Low,89968863,Jemma Kennedy,7830511568
+TXN00249,2026-03-13 6:58:56,Bank Transfer,10164.09,Completed,ATM,55298556,Higgins-Jones,7917364173,British,PR0481234,Business,High,18113477,Francesca Dawson,7500721199
+TXN00387,2026-03-13 7:05:11,International Wire,49.66,Completed,Online Banking,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,10091737,Mr Derek Reed,7613236768
+TXN00088,2026-03-13 9:04:41,Bank Transfer,796.57,Completed,Branch,64543049,Paul Collins-King,7766430218,British,XU8822178,Individual,Low,17352710,Patricia Jones,7743520276
+TXN00395,2026-03-13 9:31:01,International Wire,5135.19,Completed,Mobile App,43308443,"Williams, Hodgson and Grant",7386480450,Pakistani,ZV8073988,Business,Medium,76596831,Dr Gerard Day,7211787506
+TXN00068,2026-03-13 10:16:47,International Wire,7566.05,Completed,ATM,22448136,Dr Brett Jones,7507943839,Afghan,PV0863193,Individual,Medium,98436473,Glenn Bates,7146562851
+TXN00286,2026-03-13 10:48:20,Cash Deposit,4109.88,Completed,Online Banking,94482772,Robin Crawford-Lloyd,7837071174,British,ML1094840,Individual,Medium,84892608,Georgina Jones,7657054862
+TXN00445,2026-03-13 11:13:38,Cash Deposit,5506.23,Pending,Branch,22448136,Dr Brett Jones,7507943839,Afghan,PV0863193,Individual,Medium,73852097,Adrian Lord,7785383997
+TXN00490,2026-03-13 11:52:26,Bank Transfer,16901.92,Completed,ATM,50477742,Jay Graham-Rose,7834717549,Pakistani,,Individual,High,85182173,Mr Jonathan Butcher,7456452891
+TXN00079,2026-03-13 13:25:11,Card Payment,6785.84,Completed,Branch,27566185,Lauren Henderson,7821221887,Pakistani,BC6532632,Individual,Medium,84660688,Conor Jones-Cook,7475932035
+TXN00232,2026-03-13 14:42:03,Mobile Wallet,2440.85,Completed,ATM,32151928,"Watson, Murray and Holt",7601856351,Afghan,TU8424367,Business,Medium,7859754807,Aaron Thomas,7859754807
+TXN00195,2026-03-13 15:04:55,International Wire,1279.51,Completed,ATM,31130263,"Kennedy, Griffiths and Davies",7161073976,Turkish,HZ5570558,Business,Low,23448342,Arthur Hughes,7156361897
+TXN00080,2026-03-13 15:38:59,International Wire,1616.37,Completed,Mobile App,95125977,James and Sons,7383450553,Romanian,CW2871223,Business,Low,93446356,Joshua Parry,7702332331
+TXN00413,2026-03-13 17:13:37,International Wire,4451.14,Completed,ATM,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,80139805,Mr Charlie Wilkins,7515652006
+TXN00426,2026-03-13 17:44:42,Bank Transfer,277.43,Completed,Branch,64543049,Paul Collins-King,7766430218,British,XU8822178,Individual,Low,69473299,Jonathan Lewis-Howell,7898567178
+TXN00046,2026-03-13 20:15:46,Cash Deposit,4876.17,Completed,Branch,15134794,McCarthy Group,7216396351,Chinese,NR8308259,Business,Medium,39394291,Lawrence Parker,7478301747
+TXN00007,2026-03-13 21:50:41,Bank Transfer,2340.43,Completed,Online Banking,53507489,Jason Bell,7624636385,British,HQ6175750,Individual,Medium,70939053,Roger Faulkner,7403566540
+TXN00293,2026-03-13 22:17:12,Card Payment,6392.16,Completed,ATM,52339391,Vincent Bennett,7530747414,Pakistani,JZ6568720,Individual,Medium,34756698,Sean Evans-Davies,7776199993
+TXN00054,2026-03-14 0:34:40,Bank Transfer,3798.24,Completed,Online Banking,85329037,Mr Denis Macdonald,7313500298,Chinese,DC7550026,Individual,Medium,85350823,Ms Natasha Burke,7765233376
+TXN00116,2026-03-14 0:47:19,Card Payment,4295.39,Pending,Online Banking,24305904,Anderson-Green,7935822550,Russian,QF6426077,Business,Medium,72950208,Mr Jacob Myers,7432288618
+TXN00486,2026-03-14 1:57:01,Card Payment,676.7,Completed,ATM,15134794,McCarthy Group,7216396351,Chinese,NR8308259,Business,Medium,86911446,Jacob Evans,7576944168
+TXN00414,2026-03-14 2:41:54,International Wire,957.76,Pending,Mobile App,43446826,Dr Stewart Turner,7230307805,Russian,,Individual,Low,62989744,Miss Jacqueline McKenzie,7184777341
+TXN00384,2026-03-14 3:45:27,Mobile Wallet,1189.11,Completed,Branch,81016525,"Freeman, Holt and Wilkinson",7369953851,Nigerian,CB1674039,Business,Low,7965661638,Marc Cooke,7965661638
+TXN00126,2026-03-14 5:01:35,Cash Deposit,2444.15,Completed,ATM,85329037,Mr Denis Macdonald,7313500298,Chinese,DC7550026,Individual,Medium,42002808,Mr James King,7151270577
+TXN00029,2026-03-14 6:23:03,Mobile Wallet,4595.79,Pending,ATM,96728778,Burns Inc,7205675387,Turkish,MK0634806,Business,Medium,7350785761,Harriet Jones,7350785761
+TXN00335,2026-03-14 7:00:29,Bank Transfer,3984.36,Completed,Mobile App,99853245,Lynn Perry,7222824732,Pakistani,,Individual,Medium,42357445,Gillian Clarke-Matthews,7221057584
+TXN00184,2026-03-14 10:20:06,Mobile Wallet,300.99,Completed,Mobile App,22448136,Dr Brett Jones,7507943839,Afghan,PV0863193,Individual,Medium,7852178601,Ms Pauline Shaw,7852178601
+TXN00254,2026-03-14 11:30:47,International Wire,7922.35,Completed,Mobile App,79340535,Alan Davies,7305145276,Iranian,MI4322585,Individual,Medium,50261914,Barry Bentley,7342512383
+TXN00223,2026-03-14 16:31:40,Mobile Wallet,3711.97,Completed,Mobile App,79340535,Alan Davies,7305145276,Iranian,MI4322585,Individual,Medium,7266560311,Sam Bond,7266560311
+TXN00309,2026-03-14 16:33:02,Bank Transfer,2416.79,Completed,Mobile App,26948946,O'Neill PLC,7784907325,Romanian,VH3371002,Business,Medium,70362053,Francis Cook-Marsh,7134607126
+TXN00382,2026-03-14 16:55:47,Bank Transfer,1317.16,Completed,Mobile App,95125977,James and Sons,7383450553,Romanian,CW2871223,Business,Low,81630600,Jane Smith,7386181187
+TXN00284,2026-03-14 17:21:56,Bank Transfer,1318.63,Completed,Mobile App,66851377,Mathew Davies,7990505735,British,,Individual,Low,32325574,Dr Geraldine Newton,7481187819
+TXN00159,2026-03-14 20:07:54,Bank Transfer,400.64,Completed,Branch,60372847,Pamela Patel,7525904456,Chinese,EP7189103,Individual,Low,46836194,Kelly Griffin,7691461470
+TXN00234,2026-03-15 1:14:49,Mobile Wallet,414.64,Completed,ATM,95125977,James and Sons,7383450553,Romanian,CW2871223,Business,Low,7794395127,Gordon Bradley,7794395127
+TXN00418,2026-03-15 4:36:53,International Wire,2592.01,Completed,ATM,24305904,Anderson-Green,7935822550,Russian,QF6426077,Business,Medium,18994192,Joe Walker,7880720904
+TXN00434,2026-03-15 5:30:58,Mobile Wallet,6004.24,Completed,Mobile App,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,7839647637,Kathryn Jones,7839647637
+TXN00449,2026-03-15 7:43:44,Cash Deposit,4705.29,Completed,Mobile App,32151928,"Watson, Murray and Holt",7601856351,Afghan,TU8424367,Business,Medium,25808361,Bruce Ford-Clark,7597959181
+TXN00206,2026-03-15 7:59:32,International Wire,36539.7,Failed,Branch,50477742,Jay Graham-Rose,7834717549,Pakistani,,Individual,High,45835371,Bryan Ball,7579678614
+TXN00411,2026-03-15 10:55:03,Bank Transfer,3545.94,Completed,Mobile App,22448136,Dr Brett Jones,7507943839,Afghan,PV0863193,Individual,Medium,40365724,Claire Webb,7382824466
+TXN00005,2026-03-15 12:29:26,Mobile Wallet,1324.25,Completed,Mobile App,38716269,Dr Kenneth Marsh,7168965204,Turkish,HC2235126,Individual,Low,7268638768,Dr Shaun Roberts,7268638768
+TXN00066,2026-03-15 13:19:52,Mobile Wallet,114.27,Completed,Mobile App,83793389,Read-Pugh,7277303722,Romanian,GO0789516,Business,Low,7896413702,Charlotte Brown,7896413702
+TXN00009,2026-03-15 13:38:23,Mobile Wallet,1655,Completed,Branch,44788100,"Forster, Turner and Fry",7907214179,Polish,XP7585874,Business,Low,7176675731,Jacqueline Lynch,7176675731
+TXN00020,2026-03-15 15:17:55,Mobile Wallet,1102.95,Completed,ATM,81016525,"Freeman, Holt and Wilkinson",7369953851,Nigerian,CB1674039,Business,Low,7409268943,Gerard Burrows,7409268943
+TXN00253,2026-03-15 15:36:41,Cash Deposit,6369.74,Failed,ATM,19583482,King PLC,7754049436,British,WJ4813676,Business,Medium,60070135,Abdul Howe,7184846271
+TXN00081,2026-03-15 15:45:17,International Wire,280.18,Pending,Branch,53507489,Jason Bell,7624636385,British,HQ6175750,Individual,Medium,51471222,Dr Douglas Khan,7393421844
+TXN00475,2026-03-15 16:45:31,Card Payment,1758.17,Completed,Online Banking,19335534,Rose Ltd,7149203558,Chinese,SN9358685,Business,Low,60012498,Joseph Ball-Walters,7199805719
+TXN00436,2026-03-15 17:39:38,Mobile Wallet,1306.66,Completed,Mobile App,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,7651131533,Daniel Sheppard,7651131533
+TXN00380,2026-03-15 19:14:09,Card Payment,367.83,Completed,Branch,83793389,Read-Pugh,7277303722,Romanian,GO0789516,Business,Low,90143600,Garry Doyle-Holmes,7442392183
+TXN00011,2026-03-15 21:20:43,Card Payment,1005.94,Completed,Mobile App,66851377,Mathew Davies,7990505735,British,,Individual,Low,68755000,Melissa Griffiths,7630208579
+TXN00024,2026-03-15 22:43:07,International Wire,3353.15,Completed,Online Banking,96728778,Burns Inc,7205675387,Turkish,MK0634806,Business,Medium,73380266,Mrs Diane Walters,7618079974
+TXN00191,2026-03-15 22:45:24,International Wire,582.7,Completed,ATM,81016525,"Freeman, Holt and Wilkinson",7369953851,Nigerian,CB1674039,Business,Low,82905845,Dr Kate Cook,7715766024
+TXN00376,2026-03-16 0:31:57,Mobile Wallet,5669.11,Completed,Online Banking,55298556,Higgins-Jones,7917364173,British,PR0481234,Business,High,7259591761,Kim Richardson,7259591761
+TXN00229,2026-03-16 0:43:59,Cash Deposit,131.31,Completed,ATM,60372847,Pamela Patel,7525904456,Chinese,EP7189103,Individual,Low,33505978,Nicole Jones,7735297732
+TXN00314,2026-03-16 3:15:39,Bank Transfer,1735.42,Completed,Branch,36445607,Megan Smith,7491079829,Polish,ZD8104586,Individual,Low,27809465,Ryan Barnes,7236245128
+TXN00360,2026-03-16 6:10:32,Mobile Wallet,1951.23,Pending,ATM,45351479,Stevenson PLC,7637500247,British,CX7732107,Business,High,7348541776,Cameron Smith,7348541776
+TXN00136,2026-03-16 13:29:56,Mobile Wallet,720.38,Completed,Branch,57212267,Craig Payne,7420632895,Russian,FK9568730,Individual,Low,7938422254,Mohammed Elliott,7938422254
+TXN00251,2026-03-16 14:10:18,International Wire,44.11,Completed,Online Banking,66851377,Mathew Davies,7990505735,British,,Individual,Low,67790557,Naomi Gibbons,7973120912
+TXN00190,2026-03-16 16:52:11,Cash Deposit,14127.53,Completed,Branch,97775215,Kayleigh Lewis-Steele,7667945747,Indian,DJ0224539,Individual,High,75632882,Raymond Turner,7841139461
+TXN00128,2026-03-16 19:30:43,Mobile Wallet,864.19,Completed,ATM,99245317,Allen PLC,7507104143,Polish,RD9563651,Business,Low,7760146764,Raymond Thornton-Flynn,7760146764
+TXN00363,2026-03-16 19:58:57,Mobile Wallet,2124.88,Pending,ATM,27566185,Lauren Henderson,7821221887,Pakistani,BC6532632,Individual,Medium,7438238241,Gareth Elliott,7438238241
+TXN00492,2026-03-16 20:20:27,Cash Deposit,4404.14,Completed,Online Banking,19583482,King PLC,7754049436,British,WJ4813676,Business,Medium,24270328,Tracy Roberts-Harrison,7501461715
+TXN00134,2026-03-16 22:02:27,Bank Transfer,411.17,Pending,Branch,70505620,Gareth Robinson-Roberts,7361846370,Chinese,XU4853292,Individual,Low,36772387,Mr Gerald Wood,7949447049
+TXN00209,2026-03-16 23:53:57,Bank Transfer,741.41,Failed,ATM,36445607,Megan Smith,7491079829,Polish,ZD8104586,Individual,Low,39410942,Ms Heather Bates,7337135066
+TXN00265,2026-03-17 0:17:51,Bank Transfer,6394.54,Completed,Online Banking,71705170,Miss Valerie Ryan,7859466878,British,LJ5388196,Individual,Medium,19865900,Margaret Hall,7865694462
+TXN00044,2026-03-17 0:52:18,International Wire,7941.9,Failed,ATM,24305904,Anderson-Green,7935822550,Russian,QF6426077,Business,Medium,12944682,Jasmine Morris,7417001612
+TXN00472,2026-03-17 1:02:47,Card Payment,2149.79,Completed,Mobile App,93370583,Molly Law,7704509817,British,,Individual,Medium,23396125,Katie Saunders,7153773200
+TXN00406,2026-03-17 2:39:08,Cash Deposit,482.72,Completed,ATM,41523529,Dr Allan Clarke,7822408848,Polish,,Individual,Low,62734442,Carol Powell,7153295652
+TXN00260,2026-03-17 4:50:18,Bank Transfer,333.28,Completed,ATM,64543049,Paul Collins-King,7766430218,British,XU8822178,Individual,Low,86060638,Mrs Leah Robinson,7358205053
+TXN00446,2026-03-17 5:54:28,International Wire,1692.38,Completed,Mobile App,31130263,"Kennedy, Griffiths and Davies",7161073976,Turkish,HZ5570558,Business,Low,84926784,Judith Bell,7806108387
+TXN00228,2026-03-17 7:44:11,Mobile Wallet,1753.75,Completed,ATM,54058573,Joseph Watson,7399147754,Iranian,WF8437201,Individual,Low,7808897689,Mark Curtis,7808897689
+TXN00095,2026-03-17 17:39:05,Card Payment,5979.15,Completed,Mobile App,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,54703713,Tracy Webster-Harris,7337911187
+TXN00429,2026-03-17 18:38:24,Bank Transfer,1422.04,Completed,Mobile App,83793389,Read-Pugh,7277303722,Romanian,GO0789516,Business,Low,28206610,Pauline Williams-Marsh,7533131502
+TXN00458,2026-03-17 19:46:09,Cash Deposit,266.57,Completed,Online Banking,44788100,"Forster, Turner and Fry",7907214179,Polish,XP7585874,Business,Low,77556678,Dr Kerry Farmer,7511834185
+TXN00299,2026-03-17 21:02:36,Mobile Wallet,987,Completed,Branch,15134794,McCarthy Group,7216396351,Chinese,NR8308259,Business,Medium,7427899285,Fiona Bibi,7427899285
+TXN00328,2026-03-17 21:14:11,Bank Transfer,7414.48,Completed,Online Banking,50477742,Jay Graham-Rose,7834717549,Pakistani,,Individual,High,28405182,Paula Lane,7421322967
+TXN00297,2026-03-17 21:17:52,International Wire,11979.72,Completed,Branch,19121552,Leonard King,7825003955,Ghanaian,,Individual,High,62686364,Joshua Knight,7756387421
+TXN00185,2026-03-17 21:38:01,Card Payment,3379.3,Completed,ATM,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,37365878,Mrs Bethan Berry,7543412542
+TXN00147,2026-03-17 22:26:28,Card Payment,1302.63,Completed,Online Banking,44788100,"Forster, Turner and Fry",7907214179,Polish,XP7585874,Business,Low,25226815,Arthur Pugh,7368018471
+TXN00259,2026-03-17 22:33:24,Mobile Wallet,41.16,Completed,ATM,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,7322434334,Marc Chadwick,7322434334
+TXN00487,2026-03-18 0:23:38,Card Payment,993.72,Completed,ATM,96728778,Burns Inc,7205675387,Turkish,MK0634806,Business,Medium,97694240,Michelle Wood,7634050562
+TXN00452,2026-03-18 0:46:08,Mobile Wallet,6906.03,Completed,ATM,24305904,Anderson-Green,7935822550,Russian,QF6426077,Business,Medium,7293656603,Alex Buckley,7293656603
+TXN00364,2026-03-18 2:43:10,Cash Deposit,910.99,Pending,Online Banking,64543049,Paul Collins-King,7766430218,British,XU8822178,Individual,Low,20024377,Ryan Harris,7350838144
+TXN00030,2026-03-18 2:51:28,Bank Transfer,1491.96,Completed,Online Banking,36445607,Megan Smith,7491079829,Polish,ZD8104586,Individual,Low,61167978,Rosie Evans,7857232668
+TXN00277,2026-03-18 3:58:40,Card Payment,589.98,Completed,Online Banking,44788100,"Forster, Turner and Fry",7907214179,Polish,XP7585874,Business,Low,94946730,Amanda Taylor,7846205223
+TXN00166,2026-03-18 4:11:10,Cash Deposit,5886.89,Completed,Branch,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,63514837,Mr Frederick Watson,7470838810
+TXN00485,2026-03-18 5:43:15,Card Payment,489.37,Completed,ATM,36445607,Megan Smith,7491079829,Polish,ZD8104586,Individual,Low,16757958,Keith Watts,7398668947
+TXN00276,2026-03-18 5:45:27,Cash Deposit,1210.39,Completed,Online Banking,41523529,Dr Allan Clarke,7822408848,Polish,,Individual,Low,36957830,Alice O'Sullivan,7846564420
+TXN00352,2026-03-18 7:04:55,Mobile Wallet,504.04,Completed,Mobile App,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,7873403266,Jay Griffin-Harris,7873403266
+TXN00012,2026-03-18 7:41:14,Card Payment,1211.39,Completed,Mobile App,60372847,Pamela Patel,7525904456,Chinese,EP7189103,Individual,Low,22257687,Sandra Watson-Phillips,7127772220
+TXN00501,2026-03-18 7:45:25,Bank Transfer,2297.25,Completed,Online Banking,19583482,King PLC,7754049436,British,WJ4813676,Business,Medium,57276557,Duncan Webster,7703743777
+TXN00502,2026-03-18 7:47:25,Bank Transfer,2136.26,Completed,Online Banking,19583482,King PLC,7754049436,British,WJ4813676,Business,Medium,86589761,Hugh Howard,7816354624
+TXN00503,2026-03-18 7:49:25,Bank Transfer,2297.09,Completed,Online Banking,19583482,King PLC,7754049436,British,WJ4813676,Business,Medium,81659221,Linda Metcalfe,7407012827
+TXN00504,2026-03-18 7:51:25,Bank Transfer,2414.23,Completed,Online Banking,19583482,King PLC,7754049436,British,WJ4813676,Business,Medium,66691738,Elliot Richards,7967910655
+TXN00505,2026-03-18 7:53:25,Bank Transfer,1808.94,Completed,Online Banking,19583482,King PLC,7754049436,British,WJ4813676,Business,Medium,24290224,Jacob Hartley,7127135757
+TXN00391,2026-03-18 8:00:55,Cash Deposit,1134.79,Completed,ATM,52339391,Vincent Bennett,7530747414,Pakistani,JZ6568720,Individual,Medium,68635481,Russell Goddard,7269118504
+TXN00099,2026-03-18 8:43:13,International Wire,17298.51,Completed,Mobile App,19121552,Leonard King,7825003955,Ghanaian,,Individual,High,52431444,Declan Hunter-Field,7773469560
+TXN00441,2026-03-18 10:58:03,Cash Deposit,1724.37,Completed,Branch,82374753,Miss Rosie Bird,7242068763,Pakistani,AS0003524,Individual,Low,98062882,Mrs Sharon O'Sullivan,7380404354
+TXN00296,2026-03-18 11:57:19,Cash Deposit,1616.74,Completed,ATM,19583482,King PLC,7754049436,British,WJ4813676,Business,Medium,45212476,Nigel Nelson,7222358216
+TXN00419,2026-03-18 12:07:14,International Wire,1714.68,Pending,Mobile App,99245317,Allen PLC,7507104143,Polish,RD9563651,Business,Low,71492815,Colin Wright,7658010933
+TXN00368,2026-03-18 14:03:46,Mobile Wallet,1229.17,Completed,Branch,71705170,Miss Valerie Ryan,7859466878,British,LJ5388196,Individual,Medium,7863599447,Marian Cooper-Smith,7863599447
+TXN00034,2026-03-18 14:57:43,Bank Transfer,1706.16,Failed,ATM,57212267,Craig Payne,7420632895,Russian,FK9568730,Individual,Low,61003997,Brandon Barnett,7672972597
+TXN00261,2026-03-18 18:38:55,International Wire,3101.58,Completed,Mobile App,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,28783850,Christian Williams,7894295332
+TXN00358,2026-03-18 22:28:44,Bank Transfer,61.62,Completed,Branch,26948946,O'Neill PLC,7784907325,Romanian,VH3371002,Business,Medium,60502752,Dawn Cole,7805774632
+TXN00123,2026-03-18 22:47:49,Bank Transfer,1584.85,Completed,ATM,60372847,Pamela Patel,7525904456,Chinese,EP7189103,Individual,Low,15140967,Miss Sharon Simpson,7247746438
+TXN00180,2026-03-19 0:03:32,International Wire,4083.15,Completed,Branch,53507489,Jason Bell,7624636385,British,HQ6175750,Individual,Medium,81449442,Miss Megan Barnes,7647301347
+TXN00051,2026-03-19 2:47:14,Cash Deposit,1610.42,Completed,Online Banking,54058573,Joseph Watson,7399147754,Iranian,WF8437201,Individual,Low,20106509,Norman Slater,7602866993
+TXN00026,2026-03-19 4:08:20,Card Payment,1869.15,Completed,Branch,95125977,James and Sons,7383450553,Romanian,CW2871223,Business,Low,45859307,Teresa Williams,7645179180
+TXN00388,2026-03-19 5:10:07,Mobile Wallet,1436.71,Completed,Branch,64543049,Paul Collins-King,7766430218,British,XU8822178,Individual,Low,7961596686,Ms Lindsey Smith,7961596686
+TXN00156,2026-03-19 9:32:39,International Wire,2653.86,Completed,Online Banking,45351479,Stevenson PLC,7637500247,British,CX7732107,Business,High,83994695,Ms Kate Campbell,7990189659
+TXN00483,2026-03-19 10:58:58,Card Payment,5326.5,Completed,Mobile App,53507489,Jason Bell,7624636385,British,HQ6175750,Individual,Medium,61657265,Ashleigh Roberts,7788702788
+TXN00262,2026-03-19 11:06:39,International Wire,1168.56,Completed,Branch,55298556,Higgins-Jones,7917364173,British,PR0481234,Business,High,41157840,Suzanne Davis,7569319938
+TXN00396,2026-03-19 12:13:07,Mobile Wallet,84291.15,Completed,Mobile App,26948946,O'Neill PLC,7784907325,Romanian,VH3371002,Business,Medium,7280267742,Miss Ellie Dixon,7280267742
+TXN00015,2026-03-19 13:33:34,Card Payment,822.61,Completed,Online Banking,31130263,"Kennedy, Griffiths and Davies",7161073976,Turkish,HZ5570558,Business,Low,99943797,Bernard Jennings,7444733679
+TXN00312,2026-03-19 16:53:06,International Wire,1069.24,Completed,Branch,64543049,Paul Collins-King,7766430218,British,XU8822178,Individual,Low,82312290,Nicola Wilkins,7740871060
+TXN00330,2026-03-19 17:19:08,Card Payment,54779.7,Pending,ATM,43446826,Dr Stewart Turner,7230307805,Russian,,Individual,Low,30317091,Dr Julie Baker,7774395804
+TXN00077,2026-03-19 20:07:37,Card Payment,1748.48,Pending,Mobile App,41523529,Dr Allan Clarke,7822408848,Polish,,Individual,Low,66765623,Glen Lord,7905611583
+TXN00188,2026-03-19 20:55:47,International Wire,1354.98,Completed,Branch,31130263,"Kennedy, Griffiths and Davies",7161073976,Turkish,HZ5570558,Business,Low,96343485,Barbara Lawson,7874086851
+TXN00318,2026-03-20 1:30:55,Card Payment,17017.11,Completed,ATM,50477742,Jay Graham-Rose,7834717549,Pakistani,,Individual,High,81729237,Hilary Webb,7954352670
+TXN00038,2026-03-20 1:47:44,Cash Deposit,3029.99,Completed,Online Banking,99853245,Lynn Perry,7222824732,Pakistani,,Individual,Medium,42775624,Beverley Blake,7256304376
+TXN00379,2026-03-20 2:33:05,Card Payment,3863.49,Completed,Branch,52339391,Vincent Bennett,7530747414,Pakistani,JZ6568720,Individual,Medium,75052579,Dr Leonard Banks,7939059557
+TXN00348,2026-03-20 3:43:49,International Wire,490.74,Completed,Branch,43308443,"Williams, Hodgson and Grant",7386480450,Pakistani,ZV8073988,Business,Medium,32398441,Lucy Smith,7708689346
+TXN00473,2026-03-20 3:50:09,Cash Deposit,6422.69,Completed,Mobile App,96728778,Burns Inc,7205675387,Turkish,MK0634806,Business,Medium,67176108,Callum Gardner-Wright,7435766697
+TXN00323,2026-03-20 4:05:35,Bank Transfer,508.27,Pending,Online Banking,57212267,Craig Payne,7420632895,Russian,FK9568730,Individual,Low,99188862,Abbie Benson,7499264207
+TXN00153,2026-03-20 4:37:49,Bank Transfer,1112.5,Completed,Online Banking,88320463,Mrs Rosie Rogers,7528853029,Polish,MX6117574,Individual,Low,72734149,Dr Gerald Holland,7496115351
+TXN00019,2026-03-20 5:39:32,International Wire,1249.04,Completed,Mobile App,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,93940940,Katie Knight,7635252889
+TXN00111,2026-03-20 5:42:57,International Wire,462.79,Failed,Branch,50477742,Jay Graham-Rose,7834717549,Pakistani,,Individual,High,34194479,Frederick Wilkinson,7431642423
+TXN00177,2026-03-20 10:07:04,International Wire,1512.38,Completed,Mobile App,59555330,Dennis Jones-Hall,7725464884,Nigerian,GT5400895,Individual,Low,90861208,Lindsey Rees,7313736772
+TXN00356,2026-03-20 13:13:31,Card Payment,4753.94,Completed,Online Banking,94482772,Robin Crawford-Lloyd,7837071174,British,ML1094840,Individual,Medium,36229153,Deborah Humphreys,7629741991
+TXN00053,2026-03-20 13:35:20,Card Payment,1348.93,Completed,Branch,59529086,Lawrence Williamson,7608159580,Turkish,GM7402426,Individual,Low,45186708,Bradley Donnelly,7821920438
+TXN00355,2026-03-20 13:58:39,Bank Transfer,409.34,Completed,Online Banking,41523529,Dr Allan Clarke,7822408848,Polish,,Individual,Low,50790016,Annette Roberts-Noble,7705382875
+TXN00084,2026-03-20 15:17:55,Mobile Wallet,2527.52,Completed,Mobile App,32151928,"Watson, Murray and Holt",7601856351,Afghan,TU8424367,Business,Medium,7448303473,Diana Arnold,7448303473
+TXN00059,2026-03-20 15:51:15,Bank Transfer,1777.29,Pending,Mobile App,15134794,McCarthy Group,7216396351,Chinese,NR8308259,Business,Medium,41690501,Mr Stuart King,7577488537
+TXN00242,2026-03-20 16:03:29,Mobile Wallet,6327.15,Completed,Online Banking,71070189,Thomas Group,7406284028,British,WE4240392,Business,High,7149086585,Dr Trevor Bowen,7149086585
+TXN00119,2026-03-20 16:38:56,Card Payment,4458.6,Pending,Branch,24305904,Anderson-Green,7935822550,Russian,QF6426077,Business,Medium,79244185,Margaret Gibbs,7210154881
+TXN00146,2026-03-20 17:34:57,Cash Deposit,8934.39,Completed,Branch,55298556,Higgins-Jones,7917364173,British,PR0481234,Business,High,87030477,Carol Jones,7182555101
+TXN00425,2026-03-20 18:04:49,Cash Deposit,210.85,Completed,ATM,19583482,King PLC,7754049436,British,WJ4813676,Business,Medium,50675347,Jean Walsh,7977661452
+TXN00353,2026-03-20 18:30:30,International Wire,2476.08,Completed,Mobile App,71070189,Thomas Group,7406284028,British,WE4240392,Business,High,17069536,Albert Shaw,7822977979
+TXN00106,2026-03-20 18:33:34,Cash Deposit,7347.6,Completed,Mobile App,26948946,O'Neill PLC,7784907325,Romanian,VH3371002,Business,Medium,64864099,Shane Wallace,7515985367
+TXN00390,2026-03-20 19:25:13,Bank Transfer,1412.03,Completed,Branch,74988034,Antony Sykes,7396889215,Polish,LH2737961,Individual,Low,63095937,June Coates,7810966933
+TXN00122,2026-03-20 19:51:08,International Wire,1924.44,Completed,Branch,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,60319927,Louise Perry,7187623171
+TXN00287,2026-03-20 20:02:11,Card Payment,788.36,Completed,Online Banking,74988034,Antony Sykes,7396889215,Polish,LH2737961,Individual,Low,88999206,Miss Emily Wilkinson,7929296154
+TXN00278,2026-03-20 22:17:30,Cash Deposit,567.8,Completed,Online Banking,38716269,Dr Kenneth Marsh,7168965204,Turkish,HC2235126,Individual,Low,62738860,Brett Parkinson,7943817764
+TXN00114,2026-03-20 23:03:57,International Wire,1276.31,Completed,Online Banking,15134794,McCarthy Group,7216396351,Chinese,NR8308259,Business,Medium,93851247,Samuel Baker,7294181873
+TXN00187,2026-03-20 23:11:17,International Wire,2544.33,Pending,Branch,96728778,Burns Inc,7205675387,Turkish,MK0634806,Business,Medium,71694994,Joanne Murray,7285953213
+TXN00479,2026-03-21 2:35:50,International Wire,6244.36,Pending,Online Banking,43308443,"Williams, Hodgson and Grant",7386480450,Pakistani,ZV8073988,Business,Medium,13867648,Katherine Walker,7756441105
+TXN00003,2026-03-21 3:19:41,International Wire,3631.59,Pending,ATM,22448136,Dr Brett Jones,7507943839,Afghan,PV0863193,Individual,Medium,49910061,Sarah Khan-Edwards,7575368059
+TXN00240,2026-03-21 3:39:31,Cash Deposit,3756.69,Completed,Branch,27566185,Lauren Henderson,7821221887,Pakistani,BC6532632,Individual,Medium,58219001,Abigail Payne,7796559239
+TXN00220,2026-03-21 5:46:35,Cash Deposit,902.59,Completed,Online Banking,95125977,James and Sons,7383450553,Romanian,CW2871223,Business,Low,60418290,Charlie Howe,7505333621
+TXN00145,2026-03-21 6:12:47,Cash Deposit,7598.26,Completed,ATM,53507489,Jason Bell,7624636385,British,HQ6175750,Individual,Medium,91214453,Joseph Holden,7134773472
+TXN00499,2026-03-21 8:19:12,International Wire,3378.38,Completed,Branch,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,43318046,Andrew Flynn,7753901994
+TXN00043,2026-03-21 8:21:20,Mobile Wallet,1708.14,Completed,Branch,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,7214518079,Denise Watts,7214518079
+TXN00394,2026-03-21 16:24:15,International Wire,6813.52,Completed,Branch,85329037,Mr Denis Macdonald,7313500298,Chinese,DC7550026,Individual,Medium,86166246,Dr Francis Harris,7927672827
+TXN00315,2026-03-21 17:41:06,Mobile Wallet,984.02,Completed,ATM,54058573,Joseph Watson,7399147754,Iranian,WF8437201,Individual,Low,7720005941,Guy Robinson,7720005941
+TXN00424,2026-03-21 21:17:15,Bank Transfer,1780.25,Completed,ATM,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,41887353,Holly Roberts,7455939049
+TXN00324,2026-03-21 21:55:37,Bank Transfer,74837.03,Completed,Mobile App,19335534,Rose Ltd,7149203558,Chinese,SN9358685,Business,Low,41426254,Howard Young,7879524067
+TXN00432,2026-03-21 22:37:36,International Wire,1274.47,Completed,ATM,74988034,Antony Sykes,7396889215,Polish,LH2737961,Individual,Low,14102122,Donald Cooper,7233007467
+TXN00091,2026-03-21 22:46:37,Bank Transfer,17249.11,Completed,Mobile App,55298556,Higgins-Jones,7917364173,British,PR0481234,Business,High,68548403,Miss Shannon Stephens,7145421708
+TXN00285,2026-03-22 1:44:38,International Wire,7736.15,Completed,Mobile App,53507489,Jason Bell,7624636385,British,HQ6175750,Individual,Medium,67774765,Damien Read,7456049246
+TXN00476,2026-03-22 3:05:42,Bank Transfer,806.5,Completed,ATM,31130263,"Kennedy, Griffiths and Davies",7161073976,Turkish,HZ5570558,Business,Low,46484819,Georgia Evans,7590204687
+TXN00205,2026-03-22 3:09:36,Bank Transfer,5370.58,Completed,Online Banking,19583482,King PLC,7754049436,British,WJ4813676,Business,Medium,28872606,Edward Moore,7298407302
+TXN00174,2026-03-22 5:58:50,Cash Deposit,738.22,Completed,Online Banking,83793389,Read-Pugh,7277303722,Romanian,GO0789516,Business,Low,16866268,Dr Sally Glover,7530121245
+TXN00370,2026-03-22 7:18:23,Bank Transfer,1710.66,Completed,ATM,83793389,Read-Pugh,7277303722,Romanian,GO0789516,Business,Low,83835976,William Davison,7696950800
+TXN00444,2026-03-22 7:32:50,Card Payment,3136.79,Completed,Online Banking,27566185,Lauren Henderson,7821221887,Pakistani,BC6532632,Individual,Medium,88252116,Victor Page-Potts,7137923492
+TXN00231,2026-03-22 11:48:43,Card Payment,1236.28,Completed,ATM,79340535,Alan Davies,7305145276,Iranian,MI4322585,Individual,Medium,34679818,Elaine Rogers-Hill,7504221050
+TXN00016,2026-03-22 15:45:24,Cash Deposit,1390.41,Pending,Mobile App,64543049,Paul Collins-King,7766430218,British,XU8822178,Individual,Low,98930456,Mrs Josephine Parker,7409471503
+TXN00270,2026-03-22 18:16:45,Cash Deposit,781.72,Pending,Online Banking,59555330,Dennis Jones-Hall,7725464884,Nigerian,GT5400895,Individual,Low,85099723,Sophie Bell,7190945411
+TXN00399,2026-03-22 18:31:22,Mobile Wallet,9912.33,Completed,ATM,19121552,Leonard King,7825003955,Ghanaian,,Individual,High,7506639535,Hollie Kelly-Gibbons,7506639535
+TXN00478,2026-03-22 20:51:46,Bank Transfer,7294.25,Completed,Online Banking,96728778,Burns Inc,7205675387,Turkish,MK0634806,Business,Medium,86362294,Terry Walters,7618268171
+TXN00163,2026-03-22 21:30:51,International Wire,4963.96,Pending,Branch,24305904,Anderson-Green,7935822550,Russian,QF6426077,Business,Medium,76845536,Elliott Nicholls,7132519237
+TXN00427,2026-03-22 21:43:51,Cash Deposit,4859.58,Completed,ATM,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,35224301,Matthew Whitehead-Coleman,7195871030
+TXN00224,2026-03-23 0:36:22,Bank Transfer,12336.97,Completed,Mobile App,19121552,Leonard King,7825003955,Ghanaian,,Individual,High,42301683,Mrs Paige Morris,7116799547
+TXN00417,2026-03-23 5:25:23,Bank Transfer,673.03,Completed,Online Banking,19583482,King PLC,7754049436,British,WJ4813676,Business,Medium,68437492,Holly Gray,7833500385
+TXN00438,2026-03-23 5:55:34,Cash Deposit,7169.09,Completed,ATM,15134794,McCarthy Group,7216396351,Chinese,NR8308259,Business,Medium,71605671,Anna Edwards-Black,7474423649
+TXN00086,2026-03-23 6:10:06,Card Payment,3911.01,Completed,Mobile App,27566185,Lauren Henderson,7821221887,Pakistani,BC6532632,Individual,Medium,65590800,Philip Miller,7574641329
+TXN00139,2026-03-23 6:44:00,Bank Transfer,677.47,Completed,Branch,15134794,McCarthy Group,7216396351,Chinese,NR8308259,Business,Medium,34220459,Graham Nelson-Ferguson,7746879296
+TXN00311,2026-03-23 11:00:22,International Wire,340.3,Completed,Mobile App,41523529,Dr Allan Clarke,7822408848,Polish,,Individual,Low,37732020,Marian Spencer,7249502403
+TXN00332,2026-03-23 12:25:46,Cash Deposit,2550.3,Completed,Mobile App,22448136,Dr Brett Jones,7507943839,Afghan,PV0863193,Individual,Medium,43257324,Dr Matthew Holland,7250141520
+TXN00087,2026-03-23 13:02:28,Cash Deposit,230.67,Completed,Branch,38716269,Dr Kenneth Marsh,7168965204,Turkish,HC2235126,Individual,Low,89609131,Ms Janice Stevens,7828230915
+TXN00090,2026-03-23 13:54:18,Card Payment,1446.77,Completed,Branch,79340535,Alan Davies,7305145276,Iranian,MI4322585,Individual,Medium,81481992,Diana Hooper,7508244633
+TXN00157,2026-03-23 16:11:32,Mobile Wallet,1010.7,Completed,Online Banking,19335534,Rose Ltd,7149203558,Chinese,SN9358685,Business,Low,7159499094,Jeffrey Garner-Stevens,7159499094
+TXN00142,2026-03-23 18:53:52,International Wire,2232.72,Completed,ATM,26948946,O'Neill PLC,7784907325,Romanian,VH3371002,Business,Medium,17698469,Derek Thompson,7949842840
+TXN00094,2026-03-23 20:57:41,Bank Transfer,6763.65,Completed,Mobile App,93370583,Molly Law,7704509817,British,,Individual,Medium,68475513,Mr Martyn Cole,7361259074
+TXN00144,2026-03-23 22:39:50,International Wire,326.65,Completed,Branch,71705170,Miss Valerie Ryan,7859466878,British,LJ5388196,Individual,Medium,41674763,Mr Kieran Mann,7172191273
+TXN00280,2026-03-23 22:59:33,Mobile Wallet,15973.94,Completed,ATM,97775215,Kayleigh Lewis-Steele,7667945747,Indian,DJ0224539,Individual,High,7992582047,Harry French,7992582047
+TXN00226,2026-03-23 23:35:03,Card Payment,4763.35,Completed,Branch,97775215,Kayleigh Lewis-Steele,7667945747,Indian,DJ0224539,Individual,High,17575790,Kayleigh Simmons,7333291033
+TXN00275,2026-03-24 1:03:08,Cash Deposit,6761.25,Failed,Online Banking,50477742,Jay Graham-Rose,7834717549,Pakistani,,Individual,High,97380687,Dr Lorraine Ward,7975610118
+TXN00100,2026-03-24 3:21:55,Card Payment,1266.46,Completed,Branch,59555330,Dennis Jones-Hall,7725464884,Nigerian,GT5400895,Individual,Low,46866075,Kimberley Smith,7955052486
+TXN00373,2026-03-24 4:47:25,Mobile Wallet,1620.5,Pending,Branch,54058573,Joseph Watson,7399147754,Iranian,WF8437201,Individual,Low,7198761306,Zoe O'Brien,7198761306
+TXN00141,2026-03-24 5:20:46,Mobile Wallet,709.58,Completed,Branch,64543049,Paul Collins-King,7766430218,British,XU8822178,Individual,Low,7145478504,Mr Lee Chandler,7145478504
+TXN00267,2026-03-24 6:18:37,Cash Deposit,2911.34,Completed,Online Banking,53507489,Jason Bell,7624636385,British,HQ6175750,Individual,Medium,23721268,Leanne Kelly,7389659515
+TXN00433,2026-03-24 7:54:13,International Wire,56534.2,Completed,Branch,83793389,Read-Pugh,7277303722,Romanian,GO0789516,Business,Low,88769733,Dr Graham Baker,7609578849
+TXN00397,2026-03-24 8:31:01,Cash Deposit,32.68,Completed,Branch,99245317,Allen PLC,7507104143,Polish,RD9563651,Business,Low,43492807,Colin Smith,7325146786
+TXN00212,2026-03-24 8:39:16,International Wire,1061.06,Pending,Mobile App,70505620,Gareth Robinson-Roberts,7361846370,Chinese,XU4853292,Individual,Low,20482769,Thomas Ferguson,7488463544
+TXN00268,2026-03-24 11:05:46,Card Payment,1118.4,Completed,Mobile App,31130263,"Kennedy, Griffiths and Davies",7161073976,Turkish,HZ5570558,Business,Low,64766762,Harry O'Connor,7650229169
+TXN00416,2026-03-24 11:19:29,Bank Transfer,354.03,Completed,Online Banking,38716269,Dr Kenneth Marsh,7168965204,Turkish,HC2235126,Individual,Low,38439415,Clare Wilson,7279491823
+TXN00104,2026-03-24 13:03:10,Bank Transfer,52296.95,Failed,Mobile App,42862209,Wilkinson-Williams,7610173760,Nigerian,,Business,Low,56095437,Charlie Walker-Barnes,7999126903
+TXN00121,2026-03-24 13:45:27,Mobile Wallet,7082.81,Completed,ATM,27566185,Lauren Henderson,7821221887,Pakistani,BC6532632,Individual,Medium,7128636900,Sally Barton,7128636900
+TXN00401,2026-03-24 13:56:36,Mobile Wallet,156.68,Completed,Branch,59529086,Lawrence Williamson,7608159580,Turkish,GM7402426,Individual,Low,7135876704,Anthony Hall,7135876704
+TXN00073,2026-03-24 14:15:18,Card Payment,1777.3,Completed,ATM,66851377,Mathew Davies,7990505735,British,,Individual,Low,55490631,Stephanie Hurst,7544328940
+TXN00316,2026-03-24 14:45:50,Card Payment,160.28,Completed,Branch,19335534,Rose Ltd,7149203558,Chinese,SN9358685,Business,Low,22494970,Henry Perkins,7953193777
+TXN00150,2026-03-24 14:49:24,Bank Transfer,353.59,Failed,Branch,99245317,Allen PLC,7507104143,Polish,RD9563651,Business,Low,69741812,Jemma Smith-Walters,7865975088
+TXN00491,2026-03-24 15:23:38,Cash Deposit,236.91,Completed,Branch,36445607,Megan Smith,7491079829,Polish,ZD8104586,Individual,Low,98437437,Mrs Donna Page,7915313588
+TXN00500,2026-03-24 15:45:32,Cash Deposit,6448.13,Completed,Branch,94482772,Robin Crawford-Lloyd,7837071174,British,ML1094840,Individual,Medium,65397759,Tom Morgan,7248369653
+TXN00057,2026-03-24 16:41:19,Card Payment,748.31,Completed,Online Banking,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,82503409,Darren Jennings,7897940629
+TXN00201,2026-03-24 17:30:38,Cash Deposit,1978.31,Completed,Online Banking,60372847,Pamela Patel,7525904456,Chinese,EP7189103,Individual,Low,80372842,Melanie John-Parker,7683364453
+TXN00317,2026-03-24 17:54:51,Cash Deposit,1901.01,Completed,Mobile App,59529086,Lawrence Williamson,7608159580,Turkish,GM7402426,Individual,Low,88108751,Mrs Molly Wilson,7451424185
+TXN00210,2026-03-24 18:14:38,Mobile Wallet,1497.99,Completed,ATM,95125977,James and Sons,7383450553,Romanian,CW2871223,Business,Low,7750407244,Mary Lee,7750407244
+TXN00431,2026-03-24 19:57:24,Bank Transfer,1106.13,Completed,ATM,71070189,Thomas Group,7406284028,British,WE4240392,Business,High,36724061,Brian Cox,7486949792
+TXN00496,2026-03-24 21:03:03,Card Payment,84071.8,Failed,Mobile App,50477742,Jay Graham-Rose,7834717549,Pakistani,,Individual,High,28070539,Joshua Robinson,7641378026
+TXN00298,2026-03-24 21:36:06,Cash Deposit,4958.03,Pending,Mobile App,53507489,Jason Bell,7624636385,British,HQ6175750,Individual,Medium,49922369,Kelly Sinclair,7973744799
+TXN00361,2026-03-24 22:17:52,Cash Deposit,1949.36,Completed,Online Banking,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,87949714,Natalie Pritchard,7191163279
+TXN00246,2026-03-25 1:03:36,Card Payment,1387.46,Completed,ATM,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,57268285,Ms Clare Ali,7953598460
+TXN00055,2026-03-25 5:03:59,Bank Transfer,7279.63,Completed,Online Banking,53507489,Jason Bell,7624636385,British,HQ6175750,Individual,Medium,97139443,Rita Roberts,7424474225
+TXN00041,2026-03-25 6:12:53,Bank Transfer,7214.61,Completed,ATM,71705170,Miss Valerie Ryan,7859466878,British,LJ5388196,Individual,Medium,83363160,Julia Hall-Webster,7827579147
+TXN00208,2026-03-25 6:22:48,Bank Transfer,2489.11,Pending,Branch,19583482,King PLC,7754049436,British,WJ4813676,Business,Medium,77447155,Dr Connor Wilkinson,7535312769
+TXN00202,2026-03-25 9:26:21,International Wire,2219.05,Completed,ATM,15134794,McCarthy Group,7216396351,Chinese,NR8308259,Business,Medium,25119192,Brenda Little,7968457290
+TXN00124,2026-03-25 10:42:30,Mobile Wallet,902.72,Pending,Mobile App,31130263,"Kennedy, Griffiths and Davies",7161073976,Turkish,HZ5570558,Business,Low,7105638424,Luke Brown,7105638424
+TXN00033,2026-03-25 11:09:06,Bank Transfer,1565.24,Completed,ATM,95125977,James and Sons,7383450553,Romanian,CW2871223,Business,Low,55440919,Sarah Hamilton,7384566044
+TXN00130,2026-03-25 11:54:09,Card Payment,96.63,Completed,Mobile App,19335534,Rose Ltd,7149203558,Chinese,SN9358685,Business,Low,60103798,Ms Tracy Davis,7515410649
+TXN00381,2026-03-25 13:42:27,Bank Transfer,10635.7,Failed,Online Banking,50477742,Jay Graham-Rose,7834717549,Pakistani,,Individual,High,88381665,Melissa Wilkins,7923390510
+TXN00290,2026-03-25 18:55:30,Cash Deposit,826.1,Completed,Branch,85329037,Mr Denis Macdonald,7313500298,Chinese,DC7550026,Individual,Medium,70726434,Miss Deborah Shaw,7875235090
+TXN00067,2026-03-25 19:01:20,Bank Transfer,902.07,Completed,ATM,60372847,Pamela Patel,7525904456,Chinese,EP7189103,Individual,Low,78885632,Mr Jay Nicholson,7488736388
+TXN00327,2026-03-25 20:43:00,Mobile Wallet,150.95,Completed,Mobile App,70505620,Gareth Robinson-Roberts,7361846370,Chinese,XU4853292,Individual,Low,7511318205,Jordan King,7511318205
+TXN00133,2026-03-25 21:41:05,Card Payment,1267.15,Completed,ATM,31130263,"Kennedy, Griffiths and Davies",7161073976,Turkish,HZ5570558,Business,Low,28099607,Dr Sam Wright,7971339002
+TXN00193,2026-03-25 22:19:24,Cash Deposit,1751.2,Completed,Branch,15134794,McCarthy Group,7216396351,Chinese,NR8308259,Business,Medium,82286705,Mrs June Johnson,7989006374
+TXN00400,2026-03-25 22:48:03,Bank Transfer,1579.57,Completed,Online Banking,88320463,Mrs Rosie Rogers,7528853029,Polish,MX6117574,Individual,Low,97371655,Hilary Thomas-Gibbons,7720682356
+TXN00183,2026-03-25 23:55:08,International Wire,349.32,Completed,ATM,82374753,Miss Rosie Bird,7242068763,Pakistani,AS0003524,Individual,Low,93179531,Charlie Watts-Kemp,7775410705
+TXN00164,2026-03-26 2:49:37,Cash Deposit,497.31,Completed,Mobile App,19335534,Rose Ltd,7149203558,Chinese,SN9358685,Business,Low,64504816,Georgia Parkin,7966884723
+TXN00189,2026-03-26 4:15:58,International Wire,1578.5,Completed,Online Banking,71705170,Miss Valerie Ryan,7859466878,British,LJ5388196,Individual,Medium,47447604,Bethany Arnold-Gray,7364697908
+TXN00028,2026-03-26 4:27:15,International Wire,6967.97,Completed,Branch,97775215,Kayleigh Lewis-Steele,7667945747,Indian,DJ0224539,Individual,High,82937948,Martyn Morris,7692616814
+TXN00320,2026-03-26 5:36:54,International Wire,1578.72,Completed,ATM,42862209,Wilkinson-Williams,7610173760,Nigerian,,Business,Low,16497381,Donna Taylor,7832884547
+TXN00480,2026-03-26 8:51:35,Card Payment,947.85,Completed,Branch,19583482,King PLC,7754049436,British,WJ4813676,Business,Medium,69148126,Gareth Barnes-Bond,7541613113
+TXN00264,2026-03-26 11:45:00,Card Payment,464,Completed,ATM,57212267,Craig Payne,7420632895,Russian,FK9568730,Individual,Low,60388958,Sharon Ashton,7693819730
+TXN00272,2026-03-26 14:41:11,Cash Deposit,1210.18,Completed,Branch,22448136,Dr Brett Jones,7507943839,Afghan,PV0863193,Individual,Medium,68341261,Irene Francis-Hayward,7279537578
+TXN00319,2026-03-26 16:32:24,Mobile Wallet,544.39,Completed,Online Banking,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,7989427187,Andrea Gardner,7989427187
+TXN00230,2026-03-26 17:35:44,International Wire,103.3,Completed,Branch,66851377,Mathew Davies,7990505735,British,,Individual,Low,96344420,Christian Morgan,7469812603
+TXN00375,2026-03-26 18:11:04,Card Payment,284.38,Completed,Online Banking,43308443,"Williams, Hodgson and Grant",7386480450,Pakistani,ZV8073988,Business,Medium,67265875,Joanna Powell,7833594284
+TXN00469,2026-03-26 18:27:02,International Wire,7287.34,Completed,Mobile App,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,74513622,Ms Megan Begum,7838953322
+TXN00241,2026-03-26 19:31:32,International Wire,937.35,Completed,Branch,43446826,Dr Stewart Turner,7230307805,Russian,,Individual,Low,73013937,Dr Graeme Burrows,7962017778
+TXN00170,2026-03-26 20:40:37,Mobile Wallet,7967.96,Completed,Branch,71705170,Miss Valerie Ryan,7859466878,British,LJ5388196,Individual,Medium,7601238919,Paula Jackson,7601238919
+TXN00377,2026-03-26 21:24:23,Cash Deposit,3325.34,Completed,Branch,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,74294443,Arthur Wallace,7691297450
+TXN00050,2026-03-27 0:47:19,International Wire,1827.84,Completed,ATM,81016525,"Freeman, Holt and Wilkinson",7369953851,Nigerian,CB1674039,Business,Low,32084778,Joseph Short,7991713190
+TXN00462,2026-03-27 4:05:46,International Wire,3462.8,Completed,ATM,50477742,Jay Graham-Rose,7834717549,Pakistani,,Individual,High,97314051,Raymond Hunt,7493624575
+TXN00304,2026-03-27 5:02:00,International Wire,1309.61,Completed,ATM,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,75998330,Paul Hopkins,7539304662
+TXN00072,2026-03-27 5:09:54,Card Payment,1214.8,Pending,Online Banking,82374753,Miss Rosie Bird,7242068763,Pakistani,AS0003524,Individual,Low,25356396,Dr Clifford Harris,7206492059
+TXN00339,2026-03-27 6:23:58,Card Payment,5801.11,Completed,ATM,55298556,Higgins-Jones,7917364173,British,PR0481234,Business,High,77249653,Alan Peacock,7865179645
+TXN00152,2026-03-27 8:53:56,Cash Deposit,1832.72,Completed,ATM,71705170,Miss Valerie Ryan,7859466878,British,LJ5388196,Individual,Medium,28639738,Kyle Hancock-Vaughan,7315801027
+TXN00215,2026-03-27 10:47:09,Bank Transfer,896.51,Completed,ATM,43446826,Dr Stewart Turner,7230307805,Russian,,Individual,Low,70858653,Kate Barry-Ali,7159738492
+TXN00307,2026-03-27 11:17:15,International Wire,235.29,Completed,Branch,82374753,Miss Rosie Bird,7242068763,Pakistani,AS0003524,Individual,Low,45955440,Lisa Evans,7222628457
+TXN00300,2026-03-27 11:18:34,Mobile Wallet,783.04,Completed,ATM,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,7740407346,Ricky Collins,7740407346
+TXN00471,2026-03-27 12:20:07,Bank Transfer,646.63,Pending,Online Banking,26948946,O'Neill PLC,7784907325,Romanian,VH3371002,Business,Medium,23594977,Jack Davis,7876934082
+TXN00143,2026-03-27 13:56:38,Cash Deposit,6418.71,Failed,Online Banking,24305904,Anderson-Green,7935822550,Russian,QF6426077,Business,Medium,31473054,Sara Atkinson-Walker,7829511584
+TXN00369,2026-03-27 14:22:45,Card Payment,439.16,Completed,Online Banking,93370583,Molly Law,7704509817,British,,Individual,Medium,44918995,Joseph Baker,7420877774
+TXN00135,2026-03-27 16:37:15,Cash Deposit,3215.88,Completed,Mobile App,43308443,"Williams, Hodgson and Grant",7386480450,Pakistani,ZV8073988,Business,Medium,82884346,Dylan Willis,7975535611
+TXN00179,2026-03-27 16:45:47,International Wire,2881.64,Completed,Branch,97775215,Kayleigh Lewis-Steele,7667945747,Indian,DJ0224539,Individual,High,52752377,Oliver Butler-Khan,7758276886
+TXN00292,2026-03-27 17:19:55,Mobile Wallet,1436.9,Completed,ATM,99853245,Lynn Perry,7222824732,Pakistani,,Individual,Medium,7271944408,Christian Young,7271944408
+TXN00428,2026-03-27 17:55:23,Card Payment,6944.15,Completed,Online Banking,24305904,Anderson-Green,7935822550,Russian,QF6426077,Business,Medium,17543817,Dr Patrick Barlow,7981560713
+TXN00345,2026-03-27 18:45:49,International Wire,6274.75,Completed,Online Banking,24305904,Anderson-Green,7935822550,Russian,QF6426077,Business,Medium,44795538,Margaret Ellis,7873916084
+TXN00148,2026-03-27 19:22:21,Card Payment,780.1,Completed,Branch,31130263,"Kennedy, Griffiths and Davies",7161073976,Turkish,HZ5570558,Business,Low,25805613,Bethan Davies,7703091482
+TXN00482,2026-03-27 20:57:01,Cash Deposit,1050.98,Completed,Online Banking,88320463,Mrs Rosie Rogers,7528853029,Polish,MX6117574,Individual,Low,92978636,Mohammad Martin,7852242243
+TXN00466,2026-03-27 22:21:35,Bank Transfer,547.25,Completed,Mobile App,81016525,"Freeman, Holt and Wilkinson",7369953851,Nigerian,CB1674039,Business,Low,28409776,Vanessa Carr,7750294914
+TXN00214,2026-03-27 22:23:50,Cash Deposit,3562.63,Completed,ATM,43308443,"Williams, Hodgson and Grant",7386480450,Pakistani,ZV8073988,Business,Medium,37568520,Nicola Ashton,7830461452
+TXN00439,2026-03-27 22:44:33,Cash Deposit,56953.84,Completed,Branch,79340535,Alan Davies,7305145276,Iranian,MI4322585,Individual,Medium,88448538,Joe Stevens,7526439295
+TXN00271,2026-03-27 23:17:10,International Wire,1398.18,Completed,Branch,43189803,Kevin Brady,7314061901,Afghan,CA5936767,Individual,Medium,32750139,Victor Smith,7508807900
+TXN00468,2026-03-28 1:39:53,Cash Deposit,1946.51,Completed,Mobile App,36445607,Megan Smith,7491079829,Polish,ZD8104586,Individual,Low,64996550,Christian Ward,7484315640
+TXN00032,2026-03-28 4:55:58,Bank Transfer,1821.78,Completed,Online Banking,36445607,Megan Smith,7491079829,Polish,ZD8104586,Individual,Low,29348212,Michael Taylor,7116479358
+TXN00160,2026-03-28 13:42:09,International Wire,195.92,Completed,Online Banking,95125977,James and Sons,7383450553,Romanian,CW2871223,Business,Low,32633927,Kieran Green-Carter,7788255012
+TXN00463,2026-03-28 15:09:54,Cash Deposit,5003.92,Completed,Mobile App,32151928,"Watson, Murray and Holt",7601856351,Afghan,TU8424367,Business,Medium,16437132,Charlotte Jones-Bailey,7737721108
+TXN00422,2026-03-28 16:12:49,Cash Deposit,7047.08,Completed,ATM,79340535,Alan Davies,7305145276,Iranian,MI4322585,Individual,Medium,45451818,Carolyn Lucas,7541189818
+TXN00366,2026-03-28 16:33:10,Bank Transfer,722.99,Completed,ATM,43446826,Dr Stewart Turner,7230307805,Russian,,Individual,Low,37868462,Mr Ronald Collins,7927142786
+TXN00173,2026-03-28 17:26:44,Cash Deposit,115.01,Completed,Branch,15134794,McCarthy Group,7216396351,Chinese,NR8308259,Business,Medium,67838146,Miss Amelia Fraser,7215424112
+TXN00306,2026-03-28 18:30:53,Mobile Wallet,82763.62,Completed,ATM,85329037,Mr Denis Macdonald,7313500298,Chinese,DC7550026,Individual,Medium,7938313402,Miss Rachael Baker,7938313402
+TXN00113,2026-03-28 21:02:02,International Wire,1671.89,Completed,Online Banking,64543049,Paul Collins-King,7766430218,British,XU8822178,Individual,Low,15066382,Alice Bevan,7665359037
+TXN00218,2026-03-28 22:39:24,Bank Transfer,1988.31,Completed,ATM,74988034,Antony Sykes,7396889215,Polish,LH2737961,Individual,Low,73360324,Julia Hughes,7174108740
+TXN00386,2026-03-28 23:46:35,Card Payment,6250.16,Completed,Online Banking,50477742,Jay Graham-Rose,7834717549,Pakistani,,Individual,High,15095407,Miss Aimee Nicholls,7626602103
+TXN00247,2026-03-28 23:47:26,Mobile Wallet,1980.74,Completed,Mobile App,66851377,Mathew Davies,7990505735,British,,Individual,Low,7163063063,Valerie Stevens,7163063063
+TXN00410,2026-03-29 2:06:29,Bank Transfer,781.18,Completed,ATM,74988034,Antony Sykes,7396889215,Polish,LH2737961,Individual,Low,61196706,Terence Andrews-James,7498380251
+TXN00060,2026-03-29 2:30:15,Cash Deposit,7218.48,Completed,Branch,71705170,Miss Valerie Ryan,7859466878,British,LJ5388196,Individual,Medium,58140388,Charlene Jones,7792377512
+TXN00279,2026-03-29 3:51:34,International Wire,368.06,Completed,ATM,82374753,Miss Rosie Bird,7242068763,Pakistani,AS0003524,Individual,Low,83833059,Lucy Smith-Carter,7924223452
+TXN00337,2026-03-29 4:42:24,Cash Deposit,13690.55,Failed,Mobile App,50477742,Jay Graham-Rose,7834717549,Pakistani,,Individual,High,73218512,Dr Nicholas Parker,7918970742
+TXN00213,2026-03-29 6:12:47,Bank Transfer,18067.47,Completed,Online Banking,45351479,Stevenson PLC,7637500247,British,CX7732107,Business,High,86866717,William Wilkinson,7317064188
+TXN00245,2026-03-29 9:42:02,Card Payment,1312.67,Completed,ATM,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,55307111,Dr Melissa Davis,7835348453
+TXN00175,2026-03-29 12:42:25,Cash Deposit,584.32,Completed,Branch,88320463,Mrs Rosie Rogers,7528853029,Polish,MX6117574,Individual,Low,77680031,Howard Wilson,7514838889
+TXN00333,2026-03-29 12:54:33,Mobile Wallet,1205.99,Completed,Mobile App,54058573,Joseph Watson,7399147754,Iranian,WF8437201,Individual,Low,7874360740,Natasha Moore,7874360740
+TXN00063,2026-03-29 13:51:15,Bank Transfer,422.24,Completed,Online Banking,38716269,Dr Kenneth Marsh,7168965204,Turkish,HC2235126,Individual,Low,41272553,Catherine Gardner-Williams,7331875999
+TXN00269,2026-03-29 13:52:06,Cash Deposit,789.86,Pending,Mobile App,79340535,Alan Davies,7305145276,Iranian,MI4322585,Individual,Medium,53544301,Holly Knight,7742144634
+TXN00076,2026-03-29 16:22:28,Mobile Wallet,526.85,Completed,Mobile App,52339391,Vincent Bennett,7530747414,Pakistani,JZ6568720,Individual,Medium,7702998820,Stuart Nash-Mills,7702998820
+TXN00052,2026-03-29 17:28:18,Card Payment,737.89,Completed,Mobile App,66851377,Mathew Davies,7990505735,British,,Individual,Low,62958901,Ms Tracey Short,7948988297
+TXN00002,2026-03-29 18:21:27,Bank Transfer,6127.33,Completed,Online Banking,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,90010790,Mr Terence Smith,7751028618
+TXN00167,2026-03-29 22:31:35,International Wire,894.16,Completed,ATM,32151928,"Watson, Murray and Holt",7601856351,Afghan,TU8424367,Business,Medium,72608888,Billy Bibi-Burrows,7359564054
+TXN00489,2026-03-29 23:19:13,International Wire,1694.47,Failed,Branch,53507489,Jason Bell,7624636385,British,HQ6175750,Individual,Medium,71231190,Bryan Morris,7820990117
+TXN00233,2026-03-29 23:22:57,Bank Transfer,3330.79,Completed,ATM,94482772,Robin Crawford-Lloyd,7837071174,British,ML1094840,Individual,Medium,84797762,Dr Tony Jackson,7547221915
+TXN00216,2026-03-30 1:09:34,Card Payment,124.9,Completed,ATM,41523529,Dr Allan Clarke,7822408848,Polish,,Individual,Low,51361818,Alison Naylor,7596474925
+TXN00004,2026-03-30 6:39:24,Cash Deposit,4987.17,Pending,Online Banking,94482772,Robin Crawford-Lloyd,7837071174,British,ML1094840,Individual,Medium,23318904,Mary Ryan,7754586204
+TXN00010,2026-03-30 7:19:47,International Wire,1843.17,Completed,Branch,70505620,Gareth Robinson-Roberts,7361846370,Chinese,XU4853292,Individual,Low,26690465,Neil White,7571537429
+TXN00117,2026-03-30 8:44:32,Cash Deposit,1969.04,Completed,ATM,88320463,Mrs Rosie Rogers,7528853029,Polish,MX6117574,Individual,Low,47818761,Dr Marie Turner,7595725097
+TXN00415,2026-03-30 9:40:30,International Wire,1801.91,Completed,Online Banking,99245317,Allen PLC,7507104143,Polish,RD9563651,Business,Low,86703472,Dr Frank Martin,7959477004
+TXN00103,2026-03-30 10:11:01,Card Payment,1307.16,Completed,Online Banking,31130263,"Kennedy, Griffiths and Davies",7161073976,Turkish,HZ5570558,Business,Low,91202508,Nicholas Ashton,7445236735
+TXN00313,2026-03-30 11:26:27,Cash Deposit,2175.38,Completed,ATM,32151928,"Watson, Murray and Holt",7601856351,Afghan,TU8424367,Business,Medium,22780905,Dr Christopher Price,7652348887
+TXN00207,2026-03-30 11:36:21,International Wire,32.76,Completed,Mobile App,44788100,"Forster, Turner and Fry",7907214179,Polish,XP7585874,Business,Low,58258264,Kirsty Howard,7801887172
+TXN00349,2026-03-30 12:48:42,Bank Transfer,5409.26,Completed,Mobile App,43308443,"Williams, Hodgson and Grant",7386480450,Pakistani,ZV8073988,Business,Medium,40655922,Conor Clarke,7223838514
+TXN00198,2026-03-30 13:04:09,Bank Transfer,1896.15,Pending,Online Banking,43308443,"Williams, Hodgson and Grant",7386480450,Pakistani,ZV8073988,Business,Medium,15006085,Damian Wells,7893158610
+TXN00383,2026-03-30 14:53:07,Mobile Wallet,1694.55,Completed,Online Banking,57212267,Craig Payne,7420632895,Russian,FK9568730,Individual,Low,7956191734,Pamela Harris,7956191734
+TXN00092,2026-03-30 14:57:48,Cash Deposit,3462.81,Completed,Mobile App,26948946,O'Neill PLC,7784907325,Romanian,VH3371002,Business,Medium,95918360,Mark Singh,7534245762
+TXN00227,2026-03-30 15:22:21,Mobile Wallet,644.62,Completed,Branch,42862209,Wilkinson-Williams,7610173760,Nigerian,,Business,Low,7742009209,Dr Sara Rogers,7742009209
+TXN00013,2026-03-30 15:31:55,Cash Deposit,90.06,Completed,ATM,74988034,Antony Sykes,7396889215,Polish,LH2737961,Individual,Low,33513701,Graeme Price,7912037475
+TXN00454,2026-03-30 15:34:08,Mobile Wallet,1531.32,Completed,Mobile App,38716269,Dr Kenneth Marsh,7168965204,Turkish,HC2235126,Individual,Low,7625679392,Mr Tony Webb,7625679392
+TXN00048,2026-03-30 19:24:28,Bank Transfer,736.07,Pending,Branch,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,22097496,Lucy Reynolds-Allan,7241102355
+TXN00040,2026-03-30 23:34:58,Card Payment,294.8,Completed,Branch,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,95618110,Kerry Smith,7595155950
+TXN00172,2026-03-30 23:48:02,Mobile Wallet,98634.87,Completed,ATM,70505620,Gareth Robinson-Roberts,7361846370,Chinese,XU4853292,Individual,Low,7154267347,Mitchell Taylor,7154267347
+TXN00071,2026-03-31 2:09:17,Cash Deposit,4409.43,Failed,Branch,71705170,Miss Valerie Ryan,7859466878,British,LJ5388196,Individual,Medium,61124122,Eleanor Young,7449165212
+TXN00027,2026-03-31 3:59:15,Cash Deposit,11640.48,Pending,ATM,55298556,Higgins-Jones,7917364173,British,PR0481234,Business,High,75718414,Bradley Barnes,7808605988
+TXN00338,2026-03-31 4:29:01,Bank Transfer,144.39,Completed,Mobile App,83793389,Read-Pugh,7277303722,Romanian,GO0789516,Business,Low,38956527,Victoria Martin-Skinner,7381519299
+TXN00042,2026-03-31 4:43:34,Cash Deposit,2428.28,Completed,Branch,43308443,"Williams, Hodgson and Grant",7386480450,Pakistani,ZV8073988,Business,Medium,43567615,Ms Naomi Bailey,7555598254
+TXN00420,2026-03-31 4:43:52,International Wire,1049.9,Completed,Online Banking,99245317,Allen PLC,7507104143,Polish,RD9563651,Business,Low,25102023,Anne Fraser,7550535448
+TXN00421,2026-03-31 5:08:54,International Wire,4682.28,Completed,Mobile App,93370583,Molly Law,7704509817,British,,Individual,Medium,24178065,Dr Charlie Brooks,7207593219
+TXN00008,2026-03-31 7:18:36,Cash Deposit,5306.41,Completed,Online Banking,52339391,Vincent Bennett,7530747414,Pakistani,JZ6568720,Individual,Medium,67061186,Ellie Ward,7312406764
+TXN00440,2026-03-31 11:57:02,International Wire,1222.01,Completed,Branch,74988034,Antony Sykes,7396889215,Polish,LH2737961,Individual,Low,24509544,Dr Stuart White,7420486085
+TXN00109,2026-03-31 13:25:43,Mobile Wallet,5685.23,Completed,ATM,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,7190966348,Douglas Ryan-Harris,7190966348
+TXN00182,2026-03-31 15:36:20,Bank Transfer,954.43,Completed,Mobile App,99245317,Allen PLC,7507104143,Polish,RD9563651,Business,Low,87641510,Zoe Willis-Horton,7803935444
+TXN00078,2026-03-31 19:41:02,Cash Deposit,6317.73,Completed,Online Banking,71070189,Thomas Group,7406284028,British,WE4240392,Business,High,87566910,Gavin Wyatt,7211240259
+TXN00236,2026-03-31 22:36:38,International Wire,364.4,Completed,Online Banking,94482772,Robin Crawford-Lloyd,7837071174,British,ML1094840,Individual,Medium,35254849,Jessica Cox,7178151583
+TXN00239,2026-04-01 0:20:03,Mobile Wallet,1410.5,Pending,Branch,16789850,Mrs Olivia Barnett,7800235246,British,EL4229485,Individual,Low,7525880424,Kerry Davies,7525880424
+TXN00161,2026-04-01 1:11:36,Mobile Wallet,2734.08,Completed,Mobile App,79340535,Alan Davies,7305145276,Iranian,MI4322585,Individual,Medium,7705180256,Antony Fuller,7705180256
+TXN00404,2026-04-01 3:43:54,Mobile Wallet,1780.61,Completed,Branch,74988034,Antony Sykes,7396889215,Polish,LH2737961,Individual,Low,7268688902,Jacob Lowe,7268688902
+TXN00423,2026-04-01 5:38:52,International Wire,3810.72,Completed,ATM,85329037,Mr Denis Macdonald,7313500298,Chinese,DC7550026,Individual,Medium,46965460,Abdul Howard,7284898049
+TXN00204,2026-04-01 7:58:08,Mobile Wallet,6856.36,Completed,Branch,94482772,Robin Crawford-Lloyd,7837071174,British,ML1094840,Individual,Medium,7535391971,Jasmine Baxter,7535391971
+TXN00176,2026-04-01 8:04:20,International Wire,246.43,Completed,Branch,82374753,Miss Rosie Bird,7242068763,Pakistani,AS0003524,Individual,Low,62868861,Stanley Thompson,7203810954
+TXN00263,2026-04-01 11:21:37,International Wire,1910.17,Completed,Branch,44788100,"Forster, Turner and Fry",7907214179,Polish,XP7585874,Business,Low,53805532,Dr Carole Walker,7525956648
+TXN00455,2026-04-01 12:04:34,Mobile Wallet,3498.01,Completed,ATM,32775593,"Dodd, Hughes and Phillips",7807435606,Romanian,VH2763465,Business,Medium,7561075177,Janice Russell,7561075177
+TXN00467,2026-04-01 15:49:33,International Wire,244.29,Completed,Online Banking,43273328,Barry Group,7341266931,Afghan,YT6736384,Business,Low,24262473,Holly Hughes,7222420042
